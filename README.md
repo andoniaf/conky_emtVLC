@@ -78,3 +78,4 @@ ${execpi 30 python3 /home/aalonsof/PycharmProjects/emtVLC_conky/emtVlc.py 1252 N
 - [Plano](https://www.emtvalencia.es/geoportal/) de EMT Valencia para consultar las paradas.
 - Información sobre lineas y paradas de la EMT obtenida del [Portal de Transparencia del Ayuntamiento de Valencia](http://gobiernoabierto.valencia.es/va/data/)
   - Actualizadas a mano varias Lineas.
+- [Ejemplo completo](https://gist.github.com/andoniaf/ac9a04b2746196475322cd5dde5a9036) de un fichero de configuración de Conky.
