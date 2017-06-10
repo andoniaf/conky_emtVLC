@@ -1,0 +1,1163 @@
+stop_id,stop_name,stop_desc
+10,Dr. Lluch - Mare de Déu del Sufragi,C DOCTOR LLUCH 99 (DAVANT) - VALÈNCIA
+1006,Ricardo Micó - Menéndez Pidal,C RICARDO MICO 8 (DAVANT) - VALÈNCIA
+1007,Jesús Morante Borràs (I),AV JESUS MORANTE BORRAS 26 - VALÈNCIA
+1008,Jesús Morante Borràs (II),AV JESUS MORANTE BORRAS 54 - VALÈNCIA
+1009,Jesús Morante Borràs (III),AV JESUS MORANTE BORRAS 86 - VALÈNCIA
+1010,Jesús Morante Borràs (IV),AV JESUS MORANTE BORRAS 158 - VALÈNCIA
+1011,Jesús Morante Borràs (V),AV JESUS MORANTE BORRAS 212 - VALÈNCIA
+1012,Jesús Morante Borràs (VI),AV JESUS MORANTE BORRAS 201 - VALÈNCIA
+1013,Jesús Morante Borràs (VII),AV JESUS MORANTE BORRAS 151 - VALÈNCIA
+1014,Jesús Morante Borràs (VIII),AV JESUS MORANTE BORRAS 75 - VALÈNCIA
+1015,Jesús Morante Borràs (IX),AV JESUS MORANTE BORRAS 56 (DAVANT) - VALÈNCIA
+1016,Jesús Morante Borràs (X),AV JESUS MORANTE BORRAS 26 (DAVANT) - VALÈNCIA
+1020,Albereda - Passarel.la de l'Exposició,PSEG ALAMEDA 14 (DAVANT JARDÍ VIA CENTRAL) - VALÈNCIA
+1021,Albereda - Pla del Real,PSEG ALAMEDA 1(DAVANT JARDÍ VIA CENTRAL) - VALÈNCIA
+1024,Palau de Justícia - Glorieta,C PALACIO DE JUSTICIA ILLETA - VALÈNCIA
+1026,Ribàs (impar) - Ador,CAMI RIBAS DAVANT  ADOR - CASTELLAR-OLIVERAL
+1027,Principal - El Caroig,C  18 - VALÈNCIA
+1028,Mare de Déu de Lepant (impar) - Esc. F. Siurana,PL VIRGEN DE LEPANTO 7 - CASTELLAR-OLIVERAL
+1029,Vicent Puchol - Font de Bonet,C VICENTE PUCHOL 72 - CASTELLAR-OLIVERAL
+1030,Crist del Refugi - Davant Sant Agustí,C CRISTO DEL REFUGIO 60 - CASTELLAR-OLIVERAL
+1031,Navarro Reverter - Gravador Esteve,AV NAVARRO REVERTER 2 - VALÈNCIA
+1032,Tírig - Guàrdia Civil,C TIRIG 4 - VALÈNCIA
+1034,Cerdà de Tallada - Colón,C CERDAN DE TALLADA 2 (DAVANT) - VALÈNCIA
+1035,Aragó - Finlàndia,AV ARAGÓN 22 (DAVANT INSTITUT) - VALÈNCIA
+1036,Uruguai - Veneçuela,C URUGUAY 38 - VALÈNCIA
+1038,Arxiduc Carles (impar) - Tres Forques,C ARCHIDUQUE CARLOS 63 - VALÈNCIA
+1039,Ernest Ferrer - Aragó,C ERNESTO FERRER 1 - VALÈNCIA
+1041,Ramón i Cajal - Pintor Benedito,GV RAMON Y CAJAL 25 - VALÈNCIA
+1042,Regne de València - Ciscar,AV REGNE DE VALENCIA 73 - VALÈNCIA
+1044,Vicent Andrés Estellés - Poliesportiu,AV VICENTE ANDRES ESTELLES POLIESPORTIU - BURJASSOT
+1050,Mediterránia - Vicent Brull,C MEDITERRANEO 4 - VALÈNCIA
+1052,Eugènia Viñes - Mare de Déu del Sufragi,C EUGENIA VIÑES 109 (DAVANT BALNEARI) - VALÈNCIA
+1054,Aragó - Saragossa,AV ARAGÓN 4 - VALÈNCIA
+1055,Aragó - Ernest Ferrer,AV ARAGÓN 34 - VALÈNCIA
+1057,Aragó - Blasco Ibáñez,AV ARAGÓN 42 (ACCÉS) - VALÈNCIA
+1060,Pere Cabanes - Mont Carmel,C PEDRO CABANES 10 - VALÈNCIA
+1061,Pere Cabanes - Sant Doménec Savio,C PEDRO CABANES 58 - VALÈNCIA
+1062,Pere Cabanes - Bisbe Laguarda,C PEDRO CABANES 88 - VALÈNCIA
+1067,Equador - Pintor Matarana,AV ECUADOR  EL 93 (DAVANT) - VALÈNCIA
+1074,Dr. Marco Merenciano - Camí de Montcada,C DOCTOR MARCO MERENCIANO 1 - VALÈNCIA
+1080,Sant Vicent de Paül - Peñíscola,C SAN VICENTE DE PAUL 15 - VALÈNCIA
+1083,Aragó - Amadeu de Savoia,AV ARAGÓN 25 - VALÈNCIA
+1085,Aragó - Xile,AV ARAGÓN 16 - VALÈNCIA
+1087,Sant Antoni - Pizarro,AV SAN ANTONIO 140 (DAVANT) - MISLATA
+1091,Malilla (par) - Bernat Descoll,CTRA MALILLA 60 - VALÈNCIA
+1096,Ramon Llull - Bernat Fenollar,C RAMON LLULL 31 (DAVANT) - VALÈNCIA
+11,Dr. Lluch - Pescadors,C DOCTOR LLUCH 157 (DAVANT) - VALÈNCIA
+1109,Tomàs Montañana (impar) - Astúries,C PADRE TOMAS MONTAÑANA 24 (DAVANT) - VALÈNCIA
+1110,Dr. Manuel Candela (par) - Port,C DOCTOR MANUEL CANDELA 6 - VALÈNCIA
+1111,Dr. Manuel Candela (par) - Sants Just i Pastor,C DOCTOR MANUEL CANDELA 52 - VALÈNCIA
+1114,Ramon Llull - García Donato,C RAMON LLULL 29 - VALÈNCIA
+1116,Dr. Manuel Candela (impar) - Blasco Ibáñez,C DOCTOR MANUEL CANDELA 77 - VALÈNCIA
+1117,Dr. Manuel Candela (impar) - Sants Just i Pastor,C DOCTOR MANUEL CANDELA 53 - VALÈNCIA
+1118,Dr. Manuel Candela (impar) - Rodríguez de Cepeda,C DOCTOR MANUEL CANDELA 29 - VALÈNCIA
+1119,Dr. Manuel Candela (impar) - Port,C DOCTOR MANUEL CANDELA 3 - VALÈNCIA
+112,Ramon Llull - Leandro de Saralegui,C RAMON LLULL 5 - VALÈNCIA
+1120,Tomàs Montañana (par) - Astúries,C PADRE TOMAS MONTAÑANA 22 - VALÈNCIA
+1125,Comte de Torrefiel - Mestre Marçal,C CONDE DE TORREFIEL 28 - VALÈNCIA
+1126,Comte de Torrefiel - Josep Esteve,C CONDE DE TORREFIEL 74 - VALÈNCIA
+1127,Comte de Torrefiel - Riu Bidasoa,C CONDE DE TORREFIEL 114 - VALÈNCIA
+1128,Sant Doménec Savio - Alemany,C SANTO DOMINGO SAVIO 94 (DAVANT) - VALÈNCIA
+1129,Sant Doménec Savio - Josep Esteve,C SANTO DOMINGO SAVIO 51 - VALÈNCIA
+113,Blasco Ibáñez - Ramon Llull,AV BLASCO IBAÑEZ 73 (BARDISSA) - VALÈNCIA
+1130,Pere Patrici Mey - Felip Rinaldi,C PEDRO IMPRESOR PATRICIO MEY 29 - VALÈNCIA
+1131,Pintor Jacomart - Comte de Torrefiel,C PINTOR JACOMART 29 - VALÈNCIA
+1132,Músic Espí - Gravador Fabregat,PL MUSICO ESPI 1 (DAVANT) - VALÈNCIA
+1133,Comte de Lumiares - Tossal del Rei,C CONDE DE LUMIARES 26 (DAVANT) - VALÈNCIA
+1134,Blasco Ibáñez (par) - José María Haro,AV BLASCO IBAÑEZ 182 - VALÈNCIA
+1136,Palma de Gandia - Venta del Moro,C PALMA DE GANDIA S/N - BENIFARAIG
+1137,Ferrer i Bigné - Aiacor,C FERRER Y BIGNE 21 - BENIFARAIG
+1138,Ferrer i Bigné - Santíssima Creu,C FERRER Y BIGNE 67 - BENIFARAIG
+1139,Ferrer i Bigné - Nelo el Fariner,C FERRER Y BIGNE 97 - BENIFARAIG
+114,Blasco Ibáñez - Vinalopó,AV BLASCO IBAÑEZ 55 (JARDÍ) - VALÈNCIA
+1140,Camí de Montcada - Gasolinera,CAMI MONCADA 341 - VALÈNCIA
+1141,Germans Maristes (impar) - Fonteta Sant Lluís,AV HERMANOS MARISTAS 14 (DAVANT) - VALÈNCIA
+1143,Gravador Jordán - Músic Cuesta,C GRABADOR JORDAN 74 - VALÈNCIA
+1145,Vicent Andrés Estellés - Facultat de Farmàcia,AV VICENTE ANDRES ESTELLES S/N - BURJASSOT
+1148,Font d'en Corts (impar) - Alqueria Reial,C FUENTE EN CORTS 67-69 - VALÈNCIA
+1149,Font d'en Corts (par) - Davant Alqueria Reial,C FUENTE EN CORTS 66-68 - VALÈNCIA
+115,Blasco Ibáñez - República Argentina,AV BLASCO IBAÑEZ 84 (JARDÍ) - VALÈNCIA
+1150,Pintor Jacomart - Sant Doménec Savio,C PINTOR JACOMART 15 - VALÈNCIA
+1151,Comte de Lumiares - Falcons,C CONDE DE LUMIARES 4 (DAVANT) - VALÈNCIA
+1152,Camí de Montcada - Camí Alqueria de Marquet,CAMI MONCADA 341 (DAVANT) - VALÈNCIA
+1153,Polvorí - Cullera,C SENDA DEL POLVORIN 32 - BENIMÀMET
+1156,Pavia - Platja de les Arenes,C PAVIA 9 (DAVANT) - VALÈNCIA
+1157,Pavia - Platja de la Malva-rosa,C PAVIA 35 (DAVANT) - VALÈNCIA
+1158,Passeig Marítim - Séquia de la Cadena,PSEG PASEO MARITIMO CASABLANCA - VALÈNCIA
+1159,Passeig Marítim - Riu Tajo,PSEG PASEO MARITIMO ISABEL DE VILLENA - VALÈNCIA
+116,Blasco Ibáñez - Dr. Manuel Candela,AV BLASCO IBAÑEZ 104 (JARDÍ) - VALÈNCIA
+1160,Passeig Marítim - Vicent la Roda,PSEG PASEO MARITIMO DAVANT.VTE.LA RODA - VALÈNCIA
+1161,Passeig Marítim - Font d'en Carrós,PSEG PASEO MARITIMO DAVANT FONT D'EN CARRÓS - VALÈNCIA
+1162,Passeig Marítim - Mendizábal,PSEG PASEO MARITIMO FINAL PASSEIG - VALÈNCIA
+1163,Isabel de Villena - Font d'en Carrós,C ISABEL DE VILLENA 127 - VALÈNCIA
+1164,Isabel de Villena - Vicent la Roda,C ISABEL DE VILLENA 89 - VALÈNCIA
+1165,Isabel de Villena - Riu Tajo,C ISABEL DE VILLENA 43 - VALÈNCIA
+1168,Dr. Marcos Sopena - Armada Espanyola,C DOCTOR MARCOS SOPENA 1 - VALÈNCIA
+117,Ramon Llull - Escultor Alfons Gabino,C RAMON LLULL 6 - VALÈNCIA
+1170,Foc - Amadeu Desfilis,C FOC  DEL 1 - VALÈNCIA
+1175,Tres Creus - Segona República Espanyola,AV TRES CRUCES 103 (CARRIL BUS) - VALÈNCIA
+1176,Tres Creus - Dr. Pérez Feliu,AV TRES CRUCES 79 (CARRIL BUS) - VALÈNCIA
+1177,Tres Creus - Tres Forques,AV TRES CRUCES CANTÓ T.FORQUES (CARRIL BUS) - VALÈNCIA
+1183,General Avilés (par) - Dr. Nicasi Benlloch,AV GENERAL AVILES 10 - VALÈNCIA
+1184,General Avilés - Miguel Servet (par),AV GENERAL AVILES 28 - VALÈNCIA
+1190,Tres Creus - dels Hostalers,AV TRES CRUCES 46 (CARRIL BUS) - VALÈNCIA
+1199,Comte de Torrefiel - Escultor Piquer,C CONDE DE TORREFIEL 6 - VALÈNCIA
+12,Dr. Lluch - Pintor Ferrandis,C DOCTOR LLUCH 229 (DAVANT) - VALÈNCIA
+1210,Blasco Ibáñez - Serradora,AV BLASCO IBAÑEZ ILLETA RENFE - VALÈNCIA
+1211,Blasco Ibáñez (impar) - José María Haro,AV BLASCO IBAÑEZ 173 - VALÈNCIA
+1217,Dr. Peset Aleixandre - Felip Rinaldi,AV DOCTOR PESET ALEIXANDRE 24 - VALÈNCIA
+1218,Amadeu de Savoia - Muñoz Seca,C AMADEO DE SABOYA 14 - VALÈNCIA
+1220,Alfonso Peña - Molí de Serra,C ALFONSO PEÑA 10 (DAVANT) - VALÈNCIA
+1223,Tres Creus (carril bus) - Pare Esteban Pernet,AV TRES CRUCES 8 (CARRIL BUS) - VALÈNCIA
+1225,Camí nou de Picanya - Arquitecte Segura de Lago,CAMI PICAñA (CNO. NUEVO) 19 - VALÈNCIA
+1229,Santiago Rusiñol - Sant Joan Bosco,C SANTIAGO RUSIÑOL SANT JOAN BOSCO - VALÈNCIA
+1231,Dolores Marqués - Benicarló,C DOLORES MARQUES 1 - VALÈNCIA
+1232,Dolores Marqués - Reverend José María Pinazo,C DOLORES MARQUES 13 - VALÈNCIA
+1233,Dolores Marqués - Assagador d'Alboraia,C DOLORES MARQUES 27 - VALÈNCIA
+1239,Primat Reig - Xàbia,AV PRIMADO REIG 187 (DAVANT) - VALÈNCIA
+124,Blasco Ibáñez - José María Orense,AV BLASCO IBAÑEZ 149 - VALÈNCIA
+1240,Lliri Blau - Mestre Ventura Pascual,C LLIRI BLAU S/N - VALÈNCIA
+1241,Blasco Ibáñez - Dr. Moliner,AV BLASCO IBAÑEZ BARDISSA CENTRAL - VALÈNCIA
+1242,Mediterrània - Dr. Lluch,C MEDITERRANEO 32 - VALÈNCIA
+1243,Mediterrània - Reina,C MEDITERRANEO 21 - VALÈNCIA
+1245,Albereda - Armando Palacio Valdés,PSEG ALAMEDA DAVANT P.VALDÉS) - VALÈNCIA
+125,Blasco Ibáñez - Actor Enrique Rambal,AV BLASCO IBAÑEZ 127 - VALÈNCIA
+1252,Pl. de l'Ajuntament - Sang,PL AYUNTAMIENTO 2 - VALÈNCIA
+1254,Cid - Aiora,AV CID 11 - VALÈNCIA
+126,Blasco Ibáñez - Hondures,AV BLASCO IBAÑEZ 97 - VALÈNCIA
+1261,Pau - Bonaire,C PAZ 25 - VALÈNCIA
+1262,Sorní - Comte de Salvatierra,C SORNI 13 - VALÈNCIA
+1263,Comte de Salvatierra - Colón,C CONDE DE SALVATIERRA 3 - VALÈNCIA
+1265,Campanar (par) - la Fe,AV CAMPANAR CONSELLERIA - VALÈNCIA
+1266,Campanar (impar) - la Fe,AV CAMPANAR 21 - VALÈNCIA
+1268,Tres Creus - Hospital,AV TRES CRUCES 2 (CARRIL BUS) - VALÈNCIA
+127,Blasco Ibáñez - Actriu Encarna Máñez,AV BLASCO IBAÑEZ 126 - VALÈNCIA
+1272,Pius XII (impar) - Monestir de Poblet,AV PIO XII 51 - VALÈNCIA
+1274,Tres Creus - Rei Saud,AV TRES CRUCES 10 - VALÈNCIA
+1277,Primat Reig - Ministre Luis Mayans,AV PRIMADO REIG 18 - VALÈNCIA
+1278,Àngel Guimerà - Ferran el Catòlic,C ANGEL GUIMERA 10 - VALÈNCIA
+128,Blasco Ibáñez - Músic Ginés,AV BLASCO IBAÑEZ 158 - VALÈNCIA
+1280,Pintor Jacomart - Alcanyís,C PINTOR JACOMART 57 - VALÈNCIA
+1282,Ramon Llull - Albalat dels Tarongers,C RAMON LLULL SOLAR - VALÈNCIA
+1283,Ramon Llull - Campus Tarongers,C RAMON LLULL NOVES FACULTATS - VALÈNCIA
+1289,Vicent Puchol - Arbres,C VICENTE PUCHOL 25 - CASTELLAR-OLIVERAL
+129,Blasco Ibáñez - Enginyer Rafael Janini,AV BLASCO IBAÑEZ 168 - VALÈNCIA
+1290,Vicent Puchol - Carrera dels Bales,C VICENTE PUCHOL 24 - CASTELLAR-OLIVERAL
+1295,Mestre Rodrigo - Marqués de Sant Joan,AV MAESTRO RODRIGO 10 - VALÈNCIA
+1296,Marqués de Sant Joan - Campanar,C MARQUÉS DE SAN JUAN 7 - VALÈNCIA
+1298,Espinosa - Ferran el Catòlic,C ESPINOSA 1 - VALÈNCIA
+1299,Guillem Sorolla - Torn de l'Hospital,C GUILLEM SOROLLA 18 (DAVANT) - VALÈNCIA
+13,Dr. Lluch - Vicent Guillot,C DOCTOR LLUCH 228 - VALÈNCIA
+1300,Editor Manuel Aguilar - Baró de Càrcer,C EDITOR MANUEL AGUILAR 1 - VALÈNCIA
+1301,Baró de Càrcer - Beata,AV BARON DE CARCER 24 - VALÈNCIA
+1305,Guillem de Castro - Lliria,C GUILLEM DE CASTRO 160 - VALÈNCIA
+1306,Manuel Soto Enginyer (impar) - Pont de les Drassanes,AV INGENIERO MANUEL SOTO 15 (DAVANT ILLETA) - VALÈNCIA
+1307,Tres Creus - Llombai,AV TRES CRUCES 49 - VALÈNCIA
+1310,Manuel Carboneres - Sant Francesc de Paula,C MANUEL CARBONERES 8 (DAVANT) - VALÈNCIA
+1311,Pare Ferrís - Menéndez Pidal,C PADRE FERRIS 21 - VALÈNCIA
+1318,Molinell (par) - Alboraia,C MOLINELL 8 - VALÈNCIA
+1319,Corts Valencianes - Palau de Congressos,AV CORTS VALENCIANES P.CONGRESSOS (PAR) - VALÈNCIA
+1320,Camp de Túria (par) - Corts Valencianes,C CAMP DEL TURIA 6 - VALÈNCIA
+1321,Camp de Túria (impar) - Corts Valencianes,C CAMP DEL TURIA 6 (DAVANT) - VALÈNCIA
+1326,Ninot - Foc,C NINOT  DEL 19 (DAVANT) - VALÈNCIA
+1327,Francisco Morote Greus - Louis Braille,C FRANCISCO MOROTE GREUS 2 (DAVANT) - VALÈNCIA
+1329,Palmaret - Montcada,AV PALMARET  DEL s/n - CARPESA
+1330,Quartell - Burjassot,C CUARTELL 4 - VALÈNCIA
+1331,Florista - Carrasqueta,C FLORISTA 113 - VALÈNCIA
+1332,Florista - Faura,C FLORISTA 63 - VALÈNCIA
+1333,Bon Recés - Florista,C BUEN RETIRO CANTÓ FLORISTA - VALÈNCIA
+1348,Dr. Nicasi Benlloch - Emili Nadal,C DOCTOR NICASIO BENLLOCH 27 - VALÈNCIA
+1349,Sant Vicent Màrtir - Mossén Febrer,C SAN VICENTE MARTIR 306 - VALÈNCIA
+135,Sants Just i Pastor - Humanista Furió,C SANTOS JUSTO Y PASTOR 81 - VALÈNCIA
+1350,Sant Vicent Màrtir - Almudaina,C SAN VICENTE MARTIR 267 - VALÈNCIA
+1352,la Plata - Alberola,AV PLATA  DE  LA 33 - VALÈNCIA
+1353,la Plata - Ausiàs March,AV PLATA  DE  LA 7 - VALÈNCIA
+1354,Bernat Descoll - Joaquín Benlloch,C BERNAT DESCOLL 14 - VALÈNCIA
+1355,Oltà - Ausiàs March,C OLTA 70 - VALÈNCIA
+1356,la Plata - Fonteta Sant Lluís,AV PLATA  DE  LA 7 (DAVANT) - VALÈNCIA
+1357,la Plata - Actriu Pepita Serrador,AV PLATA  DE  LA 33 (DAVANT) - VALÈNCIA
+136,Sants Just i Pastor - Lleons,C SANTOS JUSTO Y PASTOR 59 - VALÈNCIA
+1361,Tarongers - Ramon Llull,AV NARANJOS  LOS DAVANT CIÈNCIES SOCIALS. - VALÈNCIA
+1362,Tomàs Montañana - Albereda,C PADRE TOMAS MONTAÑANA ROTONDA (PAR) - VALÈNCIA
+1363,Regne de València (impar) - Alcalde Reig,AV REGNE DE VALENCIA 100 (DAVANT) - VALÈNCIA
+1364,Regne de València (par) - Alcalde Reig,AV REGNE DE VALENCIA 102 - VALÈNCIA
+1365,Tomàs Montañana - França,C PADRE TOMAS MONTAÑANA ROTONDA (IMPAR) - VALÈNCIA
+1366,Alqueria Nova - Cortes d'Arenós,C ALQUERIA NOVA CORTES D'ARENÓS - VALÈNCIA
+1369,Tres Creus (central) - Pare Esteban Pernet,AV TRES CRUCES BARDISSA CENTRAL - VALÈNCIA
+137,Sants Just i Pastor - Dr. Manuel Candela,C SANTOS JUSTO Y PASTOR 27 - VALÈNCIA
+1370,Pare Esteban Pernet - Misericòrdia,C PADRE ESTEBAN PERNET MISERICÒRDIA - VALÈNCIA
+1374,Punta al Mar (par) - Riu,CAMI PUNTA AL MAR  DE LA 29 (DAVANT) - VALÈNCIA
+1375,Punta al Mar (par) - Canal,CAMI PUNTA AL MAR  DE LA 57 (DAVANT) - VALÈNCIA
+1376,Camí del Canal (impar) - Guitarrista Tàrrega,CAMI CANAL 40 - VALÈNCIA
+138,Sants Just i Pastor - República Argentina,C SANTOS JUSTO Y PASTOR 9 - VALÈNCIA
+1380,Punta al Mar (impar) - Canal,CAMI PUNTA AL MAR  DE LA 57 - VALÈNCIA
+1381,Punta al Mar (impar) - Riu,CAMI PUNTA AL MAR  DE LA 29 - VALÈNCIA
+1382,Blasco Ibáñez (central) - Hospital Clínic,AV BLASCO IBAÑEZ BARDISSA CENTRAL (H.CLÍNIC) - VALÈNCIA
+1384,Serradora - Poliesportiu,C SERRERIA POLIESPORTIU - VALÈNCIA
+1385,Martí Grajales - Serradora,C MARTI GRAJALES 2 - VALÈNCIA
+1386,Serradora - Ambulatori,C SERRERIA 73 - VALÈNCIA
+1387,Sants Just i Pastor - Fusta,C SANTOS JUSTO Y PASTOR 151 - VALÈNCIA
+139,Sants Just i Pastor - Lluís de Milà,C SANTOS JUSTO Y PASTOR 22 - VALÈNCIA
+14,Cavite - Riu Tajo,C CAVITE 26 - VALÈNCIA
+140,Sants Just i Pastor - Duc de Gaeta,C SANTOS JUSTO Y PASTOR 56 - VALÈNCIA
+1409,Blasco Ibáñez - Manuela Estelles,AV BLASCO IBAÑEZ 200 - VALÈNCIA
+141,Sants Just i Pastor - Peris Brell,C SANTOS JUSTO Y PASTOR 78 - VALÈNCIA
+1410,Guillermina Medrano (impar) - Borbotó,C GUILLERMINA MEDRANO S/N (IMPAR) - BORBOTÓ
+1411,Guillermina Medrano (par) - Borbotó,C GUILLERMINA MEDRANO S/N (PAR) - BORBOTÓ
+1413,Real de Madrid - Entrada Pinet,AV REAL DE MADRID 101-103 - VALÈNCIA
+1416,Inst. Obrer de Val. (impar) - Autopista Saler,C INSTITUTO OBRERO DE VALENCIA 21 - VALÈNCIA
+1417,Inst. Obrer de Val. (impar) - General Urrutia,C INSTITUTO OBRERO DE VALENCIA 3 - VALÈNCIA
+1418,Inst. Obrer de Val. (par) - General Urrutia,C INSTITUTO OBRERO DE VALENCIA 2 - VALÈNCIA
+1419,Inst. Obrer de Val. (par) - Autopista Saler,C INSTITUTO OBRERO DE VALENCIA 17 (DAVANT) - VALÈNCIA
+1421,Petxina - Torres,PSEG PECHINA 53 - VALÈNCIA
+1422,Petxina - Pérez Galdos,PSEG PECHINA 47 - VALÈNCIA
+1423,Petxina - Terol,PSEG PECHINA 41 - VALÈNCIA
+1424,Petxina - Ferran el Catòlic,PSEG PECHINA 28 - VALÈNCIA
+1425,Petxina - Túria,PSEG PECHINA 3 - VALÈNCIA
+1427,Jacinto Benavente - Borriana,AV JACINTO BENAVENTE 16 - VALÈNCIA
+1428,Jacinto Benavente - Peris i Valero,AV JACINTO BENAVENTE S/N - VALÈNCIA
+1430,Albereda - Illes Canàries,PSEG ALAMEDA 31 - VALÈNCIA
+1431,Tirso de Molina - Pius XII,AV TIRSO DE MOLINA 5 (ACCÉS) - VALÈNCIA
+1432,Tirso de Molina - Mestre Rodrigo,AV TIRSO DE MOLINA 21 - VALÈNCIA
+1435,Tres Creus - Prínceps de Mònaco,AV TRES CRUCES 22 - VALÈNCIA
+1436,Ausiàs March - Dr. Waksman,AV AUSIAS MARCH 7 - VALÈNCIA
+1438,Dr. Tomàs Sala - Gaspar Aguilar,C DOCTOR TOMAS SALA S/N (CARRIL BUS)(PAR) - VALÈNCIA
+144,Dr. Manuel Candela (par) - Rodríguez de Cepeda,C DOCTOR MANUEL CANDELA 28 - VALÈNCIA
+1440,Dr. Tomàs Sala - Sant Marcel.lí,C DOCTOR TOMAS SALA 10 (CARRIL BUS) - VALÈNCIA
+1441,Dr. Tomàs Sala (par) - Sant Vicent Màrtir,C DOCTOR TOMAS SALA 43(DAVANT CARRIL BUS) - VALÈNCIA
+1442,Dr. Tomàs Sala (impar) - Sant Vicent Màrtir,C DOCTOR TOMAS SALA 43 (CARRIL BUS) - VALÈNCIA
+1443,Dr. Tomàs Sala - Carters,C DOCTOR TOMAS SALA 23 (CARRIL BUS) - VALÈNCIA
+1444,Dr. Tomàs Sala - General Barroso,C DOCTOR TOMAS SALA S/N (CARRIL BUS) (IMPAR) - VALÈNCIA
+1448,Camp de Túria - Mestre Rodrigo,C CAMP DEL TURIA 16 - VALÈNCIA
+145,Dr. Manuel Candela (par) - Blasco Ibáñez,C DOCTOR MANUEL CANDELA 72 - VALÈNCIA
+1461,França - Albereda,AV FRANCIA 1 - VALÈNCIA
+1462,Albereda - Pont del Regne,PSEG ALAMEDA PONT DEL REGNE - VALÈNCIA
+1463,Malilla (impar) - Illa Formentera,CTRA MALILLA 89 - VALÈNCIA
+1464,Malilla (impar) - Illa Cabrera,CTRA MALILLA 65 ACC. - VALÈNCIA
+1465,Malilla (impar) - Bernat Descoll,CTRA MALILLA S/N (JARDÍ) - VALÈNCIA
+1472,Pius IX - Salvador Perles,AV PIO IX S/N - VALÈNCIA
+1473,Pius IX - Cabanilles,AV PIO IX 27 - VALÈNCIA
+1474,Camí vell Picassent - Acc. Cementeri,CAMI VIEJO PICASENT S/N - VALÈNCIA
+1475,Camí vell Picassent - Tanatori Municipal,CAMI VIEJO PICASENT S/N - VALÈNCIA
+1484,Portugal - Canoner,AV PORTUGAL 1 - VALÈNCIA
+1485,Palmaret - Rosa dels Vents (davant),AV PALMARET  DEL S/N - CARPESA
+1489,Tarongers - Davant Acc.Pta.Prin.Universitats,AV NARANJOS  LOS S/N - VALÈNCIA
+1490,Tarongers - Junt Entrada Universitats,AV NARANJOS  LOS S/N - VALÈNCIA
+1492,Albalat dels Tarongers - Vinalopó,C ALBALAT DELS TARONGERS 22(DAVANT) - VALÈNCIA
+1499,Sants Just i Pastor - Indústria,C SANTOS JUSTO Y PASTOR JUNT ESTACIÓ METRO - VALÈNCIA
+150,Cardenal Benlloch (par) - Port,AV CARDENAL BENLLOCH 6 - VALÈNCIA
+1500,Sants Just i Pastor - Escultor Esteve Edo,C SANTOS JUSTO Y PASTOR JUNT COLEGI - VALÈNCIA
+1501,Sants Just i Pastor - Serradora,C SANTOS JUSTO Y PASTOR 154 - VALÈNCIA
+1503,Sants Just i Pastor - Music Ginés,C SANTOS JUSTO Y PASTOR 103 - VALÈNCIA
+1515,Sants Just i Pastor - Jose Maria Haro,C SANTOS JUSTO Y PASTOR 145 - VALÈNCIA
+1518,la Malva-rosa - Fuerteventura,AV MALVARROSA 89 - VALÈNCIA
+1520,Guillem de Castro - Sant Agustí,PL SAN AGUSTIN 2 - VALÈNCIA
+1526,Dos de Mayo - Camí vell de Xirivella,C  13 - MISLATA
+153,Cardenal Benlloch - Dr. Vicente Pallarés,AV CARDENAL BENLLOCH 104 - VALÈNCIA
+1532,Menorca - França,C  s/n - VALÈNCIA
+1533,França-Samuel Ros,AV FRANCIA 51 - VALÈNCIA
+1534,França-Vicente Beltrán,AV FRANCIA 18 (davant) - VALÈNCIA
+1535,França-Pare Tomas Montañana,AV FRANCIA 2 (davant) - VALÈNCIA
+1536,Albereda - Eduard Boscà,PSEG ALAMEDA s/n - VALÈNCIA
+1537,Albereda - Pont Àngel Custodi,PSEG ALAMEDA s/n - VALÈNCIA
+1538,França-Albereda,AV FRANCIA 4 - VALÈNCIA
+1539,França-Pintor Maella,AV FRANCIA s/n - VALÈNCIA
+154,Blasco Ibáñez - Rubén Darío,AV BLASCO IBAÑEZ 37 (BARDISSA LATERAL) - VALÈNCIA
+1540,França-Trafalgar,AV FRANCIA 44 - VALÈNCIA
+1541,Menorca - Balears,C  s/n - VALÈNCIA
+1543,Xàtiva - Institut,C XATIVA S/N - VALÈNCIA
+1546,Gran Canària - Mendizábal,C  42 - VALÈNCIA
+1547,Uruguai - Crta. Escrivà,C URUGUAY 27 - VALÈNCIA
+1548,Maximilià Thous - Constitució,C MAXIMILIANO THOUS 1 - VALÈNCIA
+155,Blasco Ibáñez - Almela i Vives,AV BLASCO IBAÑEZ 31 - VALÈNCIA
+1550,Beat Juan Grande - Sant Joan de Déu,C  S/N - VALÈNCIA
+1551,Tarongers - Pare Antón Martí,AV NARANJOS  LOS 43 - VALÈNCIA
+1552,Marí Blas de Lezo - Felip Gauna,C MARINO BLAS DE LEZO 30 - VALÈNCIA
+1562,Palmaret - Rosa dels Vents,AV PALMARET  DEL s/n - CARPESA
+1563,Sant Agustí - Sant Pau,PL SAN AGUSTIN 2 - VALÈNCIA
+1566,Corts Valencianes (impar) - la Safor,AV CORTS VALENCIANES 35 - VALÈNCIA
+157,Blasco Ibáñez - Gascó Oliag,AV BLASCO IBAÑEZ 25 - VALÈNCIA
+1572,Sant Antoni - del Quint,AV SAN ANTONIO 144 - MISLATA
+1574,Ferran el Catòlic - Petxina,GV FERNANDO EL CATOLICO s/n - VALÈNCIA
+158,Blasco Ibáñez (impar) - Ciutat Universitària,AV BLASCO IBAÑEZ 21 DUP. - VALÈNCIA
+1584,Joaquím Ballester - Pare Ferrís,C JOAQUÍN BALLESTER 8 - VALÈNCIA
+1585,Castell de Pop - Jesús Natzaré,C CASTELL DE POP S/N - VALÈNCIA
+1587,Reina - Armada Espanyola,C REINA (C.) 3 - VALÈNCIA
+1589,Dr. J.J.Dòmine - Port,C DOCTOR J.J. DOMINE 4 - VALÈNCIA
+1590,Joan Verdaguer - Port,C  S/N - VALÈNCIA
+1591,Joan Verdaguer - Pare Porta,C  34 (DAVANT) - VALÈNCIA
+1592,Joan Verdaguer - Issac Peral,C  5 - VALÈNCIA
+1593,Eivissa - Prof.Vicente Llorens,C  3 - VALÈNCIA
+1594,Illes Canàries - Noguera,C ISLAS CANARIAS 227 - VALÈNCIA
+1595,Illes Canàries - Trafalgar,C ISLAS CANARIAS 193 - VALÈNCIA
+1596,Illes Canàries - Vicente Beltrán,C ISLAS CANARIAS 133 ACC - VALÈNCIA
+1597,Illes Canàries - Lebon,C ISLAS CANARIAS 78 (DAVANT) - VALÈNCIA
+1598,Illes Canàries - Riu Escalona,C ISLAS CANARIAS 71 ACCS. - VALÈNCIA
+1599,Illes Canàries - Eduard Boscà,C ISLAS CANARIAS 32 (DAVANT) - VALÈNCIA
+16,Cavite - Vicent la Roda,C CAVITE 94 - VALÈNCIA
+160,Blasco Ibáñez - Hospital Clínic,AV BLASCO IBAÑEZ 17 - VALÈNCIA
+1602,Serradora - Peanya,C SERRERIA 11 - VALÈNCIA
+1613,Marcos Sopena - Port,C DOCTOR MARCOS SOPENA S/N (VERJA PORT) - VALÈNCIA
+1615,Port - Saragossa,AV PUERTO 2 ACCS. - VALÈNCIA
+1616,Port - Eduard Boscà,AV PUERTO 48 - VALÈNCIA
+1617,Port - Riu Escalona,AV PUERTO 104 - VALÈNCIA
+1618,Port -Tomàs Montañana,AV PUERTO 118 - VALÈNCIA
+1619,Port - Cases Carbonell,AV PUERTO 119 (DAVANT) - VALÈNCIA
+162,Blasco Ibáñez - Jaume Roig,AV BLASCO IBAÑEZ 7 - VALÈNCIA
+1621,Port - Noguera,AV PUERTO 230 - VALÈNCIA
+1622,Port - Eivissa,AV PUERTO 256 - VALÈNCIA
+1623,Port - Pare Porta,AV PUERTO 308 - VALÈNCIA
+1624,Port - Joan Josep Sister,AV PUERTO 334 - VALÈNCIA
+1627,Dr. Lluch - Armada Espanyola,C DOCTOR LLUCH 4 - VALÈNCIA
+163,Blasco Ibáñez - General Elío,AV BLASCO IBAÑEZ 2 - VALÈNCIA
+1630,Menorca - Eivissa,C  1 - VALÈNCIA
+1631,Port - Illes Canàries,AV PUERTO 274 - VALÈNCIA
+1632,Marqués de Sotelo - Xátiva,AV MARQUÉS DE SOTELO 9 - VALÈNCIA
+164,Blasco Ibáñez - Rectorat,AV BLASCO IBAÑEZ BARDISSA CENTRAL(J.ROIG) - VALÈNCIA
+1641,General Urrutia (par)  - Antonio Sacramento,C GENERAL URRUTIA S/N - VALÈNCIA
+1642,General Urrutia (par) - Antonio Ferrandis,C GENERAL URRUTIA S/N - VALÈNCIA
+1643,General Urrutia (impar) - Antonio Sacramento,C GENERAL URRUTIA S/N - VALÈNCIA
+1646,la Plata - Músic Òscar Esplá,AV PLATA  DE  LA 77 (DAVANT) - VALÈNCIA
+1647,General Urrutia (impar) - Antonio Ferrandis,C GENERAL URRUTIA S/N - VALÈNCIA
+165,Blasco Ibáñez (par) - Ciutat Universitària,AV BLASCO IBAÑEZ 18 - VALÈNCIA
+1651,Hernández Lázaro -Centre Comercial,C  12 ACCS - VALÈNCIA
+1652,Hernández Lázaro - Vall de la Ballestera,C  26 - VALÈNCIA
+1653,Mestre Rodrigo - General Avilés,AV MAESTRO RODRIGO 40 (ACCÉS) - VALÈNCIA
+1654,Mestre Rodrigo - la Safor,AV MAESTRO RODRIGO 109 (DAVANT) - VALÈNCIA
+1655,Mestre Rodrigo - La Plana Baixa,AV MAESTRO RODRIGO 82-A - VALÈNCIA
+1657,Marina Baixa - Hospital Arnau de Vilanova,C  BGW 11 - VALÈNCIA
+1658,la Safor - Mestre Rodrigo,C LA SAFOR. 20 (ACCÉS) - VALÈNCIA
+1659,Mestre Rodrigo (Impar) - la Safor,AV MAESTRO RODRIGO 109 - VALÈNCIA
+166,Blasco Ibáñez - Facultat de Geografia,AV BLASCO IBAÑEZ 28 - VALÈNCIA
+1660,Mestre Rodrigo (Impar) - General Avilés,AV MAESTRO RODRIGO 85 - VALÈNCIA
+1661,Pío Baroja - Parc de capçalera,AV  S/N CARRIL BUS - VALÈNCIA
+1662,Vall de la Ballestera - Pío Baroja,C VALLE DE LA BALLESTERA 60 - VALÈNCIA
+1663,Alcalde Reig - Pont del Regne,C ALCALDE REIG 6 (DAVANT) - VALÈNCIA
+1664,Alcalde Reig  - LLuís Oliag,C ALCALDE REIG 6 - VALÈNCIA
+1665,Alcalde Reig (impar) - Pere Aleixandre,C ALCALDE REIG 9 (ACCES)(DAVANT) - VALÈNCIA
+167,Blasco Ibáñez - Facultat de Filologia,AV BLASCO IBAÑEZ 32 - VALÈNCIA
+1670,Reina - Remonta,C REINA (C.) S/N - VALÈNCIA
+1671,Reina - Espadan,C REINA (C.) 193 - VALÈNCIA
+1672,Reina - Pescadors,C REINA (C.) 143 - VALÈNCIA
+1673,Reina - Vicent Gallart,C REINA (C.) 45 - VALÈNCIA
+1675,Sueca - Puerto Rico,C  37 - VALÈNCIA
+1676,Sueca - G.V. Germanies,C  3 - VALÈNCIA
+1677,Cardenal Benlloch - Pobla Farnals,AV CARDENAL BENLLOCH 54 - VALÈNCIA
+1678,Cardenal Benlloch - Santos Justo y Pastor,AV CARDENAL BENLLOCH 76 - VALÈNCIA
+1679,Primat Reig - Conca Tramoyeres,AV PRIMADO REIG 151 - VALÈNCIA
+168,Blasco Ibáñez - Suècia,AV BLASCO IBAÑEZ 50 (COPUT) - VALÈNCIA
+1680,Primat Reig - Viver,AV PRIMADO REIG 103 - VALÈNCIA
+1681,Primat Reig - Motilla del Palancar,AV PRIMADO REIG 59 - VALÈNCIA
+1682,Primat Reig - Constitució,AV PRIMADO REIG 5 (ACC.) - VALÈNCIA
+1683,Dr. Peset Aleixandre - Montcada,AV DOCTOR PESET ALEIXANDRE 60 (ACC.) - VALÈNCIA
+1684,Dr. Peset Aleixandre - Av. Burjassot,AV DOCTOR PESET ALEIXANDRE 138 - VALÈNCIA
+1685,Campanar - Conchita Piquer,AV CAMPANAR 28 - VALÈNCIA
+1686,Pérez Galdós - Tres Forques,AV PEREZ GALDOS 25 (ACC.) - VALÈNCIA
+1687,Giorgeta - Carcaixent,AV GIORGETA 18(ILLETA FGV - VALÈNCIA
+1688,Peris i Valero - Escultor Josep Capuz,AV PERIS Y VALERO 186 - VALÈNCIA
+169,Blasco Ibáñez - Bèlgica,AV BLASCO IBAÑEZ 56 (JARDÍ LATERAL) - VALÈNCIA
+1690,Giorgeta - Albacete,AV GIORGETA 13 - VALÈNCIA
+1691,Pérez Galdós - Martínez Aloy,AV PEREZ GALDOS 20 - VALÈNCIA
+1692,Pérez Galdós - Heroi Romeu,AV PEREZ GALDOS 62 (ACC.) - VALÈNCIA
+1693,Dr. Peset Aleixandre - En Guillem Ferrer,AV DOCTOR PESET ALEIXANDRE 133 - VALÈNCIA
+1694,Primat Reig - Dr. Gómez Ferrer,AV PRIMADO REIG 96 - VALÈNCIA
+1695,Cardenal Benlloch - Dr. Ferran,AV CARDENAL BENLLOCH 41 - VALÈNCIA
+1696,Giorgeta - Mora de Rubielos,AV GIORGETA 28 - VALÈNCIA
+17,Cavite - Font d'en Carròs,C CAVITE 140 - VALÈNCIA
+170,Dr. Gómez Ferrer - Menéndez y Pelayo,C DOCTOR GOMEZ FERRER 5 (DAVANT) - VALÈNCIA
+1700,Camp del Túria - Marina Baixa,C CAMP DEL TURIA S/N - VALÈNCIA
+1701,Garrigues - Escolano,C GARRIGUES S/N - VALÈNCIA
+1706,Rotonda Carretera Montanyars - Pinedo,RTDA  S/N - PINEDO
+171,Cabanilles - Primat Reig,C CAVANILLES 7 - VALÈNCIA
+1714,Fires(impar) - Cementeri,AV FERIAS  DE LAS S/N - BENIMÀMET
+1715,Fires(par) - Cementeri,AV FERIAS  DE LAS S/N - BENIMÀMET
+1716,Ferran el Catòlic - S. Ignacio de Loyola,GV FERNANDO EL CATOLICO 53 - VALÈNCIA
+172,Cabanilles - Álvaro de Bazán,C CAVANILLES 18 (DAVANT) - VALÈNCIA
+1720,Corts Valencianes - Constitució,AV CORTS VALENCIANES 111 (DAVANT) - TAVERNES BLANQUES
+1721,Corts Valencianes - Dr. Barraquer,AV CORTS VALENCIANES 120 - TAVERNES BLANQUES
+1723,Ribàs(par) - Dr. Ruiz Comes,CAMI RIBAS S/N (DAVANT TERRAPLÉN) - CASTELLAR-OLIVERAL
+1724,Ribàs(impar) - Dr. Ruiz Comes,CAMI RIBAS S/N (TERRAPLÈN) - CASTELLAR-OLIVERAL
+173,Cabanilles - Vivers,C CAVANILLES 2 (DAVANT) - VALÈNCIA
+1733,Gaspar Aguilar - Hospital Peset,AV GASPAR AGUILAR 92 DUP - VALÈNCIA
+1734,Carda - Moro Zeit,C CARDA 21ACC (DAVANT) - VALÈNCIA
+174,Jaume Roig - Álvaro de Bazán,C JAIME ROIG 12 - VALÈNCIA
+1741,Pius XII - Melchor Hoyos Perez,AV PIO XII S/N (JARDÍ) - VALÈNCIA
+1742,Beat Juan Grande - Vicent la Roda,C  40 - VALÈNCIA
+1743,Albereda - Palau de la Música,PSEG ALAMEDA 36 (DAVANT) - VALÈNCIA
+1744,Albereda (riu) - L'Hemisfèric,PSEG ALAMEDA DAVANT TORRE FRANÇA - VALÈNCIA
+1745,Albereda (riu) - Museu de les Ciències,PSEG ALAMEDA S/N (DAVANT 47) - VALÈNCIA
+1746,Menorca (impar) - Centre Comercial,C  17 - VALÈNCIA
+1747,Serradora - Port,C SERRERIA 4 - VALÈNCIA
+1748,Serradora - Fco. Cubells,C SERRERIA 12 - VALÈNCIA
+1749,Lluís Peixò - Comte Melito,C  S/N - VALÈNCIA
+175,Jaume Roig - Primat Reig,C JAIME ROIG 26 - VALÈNCIA
+1750,Fausto Elio (par) - Universitat Politècnica,C  28 ACC. - VALÈNCIA
+1751,Mendizábal - Gran Canària,C MENDIZABAL 17ACC (DAVANT) - VALÈNCIA
+1752,Fausto Elio (impar) - Universitat Politècnica,C  S/N (DAVANT 28 ACC.) - VALÈNCIA
+1753,Lluís Peixó - Tarongers,C  SOLAR - VALÈNCIA
+1754,Marí Blas de Lezo - Cami Cabanyal,C MARINO BLAS DE LEZO 51 ACC. - VALÈNCIA
+1755,Marí Blas de Lezo(impar) -Estació Cabanyal,C MARINO BLAS DE LEZO 17 - VALÈNCIA
+1756,Serradora - Sants Just i Pastor,C SERRERIA 57 - VALÈNCIA
+1757,Serradora - Jeroni de Montsoriu,C SERRERIA 35 - VALÈNCIA
+1759,Menorca (par) - Centre Comercial,C  24 ACC. - VALÈNCIA
+1760,Albereda - Museu de les Ciències,PSEG ALAMEDA 47 - VALÈNCIA
+1761,Albereda - L'Hemisfèric,PSEG ALAMEDA TORRE FRANÇA - VALÈNCIA
+1762,Albereda - General Gil Dolz,PSEG ALAMEDA 22 - VALÈNCIA
+1763,Jacinto Benavente - Pont Angel Custodi,AV JACINTO BENAVENTE 27 (DAVANT) - VALÈNCIA
+1764,Jacinto Benavente - Palau de la Música,AV JACINTO BENAVENTE 14 (DAVANT) - VALÈNCIA
+1765,Montolivet - Pere Aleixandre,PL MONTEOLIVETE 3 - VALÈNCIA
+1766,Guillem de Castro - Hospital,C GUILLEM DE CASTRO 34 - VALÈNCIA
+1767,Padilla - Músic Peydro,C PADILLA 5 - VALÈNCIA
+1768,Marí Blas de Lezo(par) -Estació Cabanyal,C MARINO BLAS DE LEZO S/N(MILLARS) - VALÈNCIA
+1769,La Murta (impar) - Cementeri,C  IMPAR - SEDAVÍ
+177,Emili Baró - Reverend Rafael Tramoyeres,C EMILIO BARO 14 - VALÈNCIA
+1770,La Murta (impar) - Assagador la Torre,C  IMPAR - SEDAVÍ
+1771,La Murta (par) - Assagador la Torre,C  PAR - SEDAVÍ
+1772,La Murta (par) - Cementeri,C  PAR - SEDAVÍ
+1773,Doctor Álvaro López - Illa de Hierro,C  79 ACC - VALÈNCIA
+1774,Doctor Álvaro López - Vicent La Roda,C  S/N (ESQUINA VTE.LA RODA) - VALÈNCIA
+1775,Albereda (riu) - Illes Canàries,PSEG ALAMEDA 32 (DAVANT) - VALÈNCIA
+1776,Albereda - Davant Palau de la Música,PSEG ALAMEDA 35 - VALÈNCIA
+178,Emili Baró - Manuel Castellanos,C EMILIO BARO 40 - VALÈNCIA
+1783,Uruguai (impar) - Jeroni Munyós,C URUGUAY 5 - VALÈNCIA
+1784,Carcaixent - Giorgeta,C CARCAGENTE 4 DUP - VALÈNCIA
+1785,Uruguai (par) - Jeroni Munyós,C URUGUAY 8 - VALÈNCIA
+179,Emili Baró - Francesc Martínez,C EMILIO BARO 58 - VALÈNCIA
+18,Cavite - Mendizábal,C CAVITE 177 (DAVANT) - VALÈNCIA
+1801,Finlàndia - Aragó,C FINLANDIA 16 ACC - VALÈNCIA
+1802,Ernest Ferrer - Polo y Peirolón,C ERNESTO FERRER 10 ACC - VALÈNCIA
+1804,Joaquín Costa - Comte d'Altea,C JOAQUÍN COSTA 18 - VALÈNCIA
+1805,Comte de Salvatierra - Ciril Amorós,C CONDE DE SALVATIERRA 27 - VALÈNCIA
+1806,Molinell (impar) - Alboraia,C MOLINELL 1 - VALÈNCIA
+1807,Argenter Suárez - Ministre Luis Mayans,C  16 - VALÈNCIA
+1808,Ruaya (par) - Visitació,C  42 - VALÈNCIA
+1809,Reus (impar) - Poeta Fdez. Heredia,C  31 - VALÈNCIA
+1810,Reus - Periodista Llorente,C  16 (DAVANT) - VALÈNCIA
+1812,Joaquím Ballester - Pare Ferris,C JOAQUÍN BALLESTER 3 - VALÈNCIA
+1813,Reus - Alqueria de la Estrella,C  20 ACC - VALÈNCIA
+1814,Reus (par) - Poeta Fdez. Heredia,C  32 ACC - VALÈNCIA
+1815,Ruaya (impar) - Visitació,C  23 - VALÈNCIA
+1816,Argenter Suárez - Miraculosa,C  11 - VALÈNCIA
+1817,Font de la Figuera - Dr. Waksman,C  21 ACC - VALÈNCIA
+1818,Sueca - Peris i Valero,C  73 - VALÈNCIA
+1819,Ausiàs March - Manuel Sanchis Guarner,AV AUSIAS MARCH 8 - VALÈNCIA
+1820,Pedreguer - Juan Ramón Jiménez,C  10 ACC - VALÈNCIA
+1821,Ausiàs March - Bernat Descoll,AV AUSIAS MARCH 48 - VALÈNCIA
+1822,Ausiàs March - Na Rovella,AV AUSIAS MARCH 70 - VALÈNCIA
+1824,Joan XXIII - Germans Machado,AV JUAN XXIII 51 ACC - VALÈNCIA
+1825,Joan XXIII - Federico Alcacer Aguilar,AV JUAN XXIII 45 ACC - VALÈNCIA
+1826,Joan XXIII (impar) - Dr. Marco Merenciano,AV JUAN XXIII 3 - VALÈNCIA
+1827,General Avilés - Pius XII,AV GENERAL AVILES 37 - VALÈNCIA
+1828,General Avilés - Miguel Servet (impar),AV GENERAL AVILES 17 ACC - VALÈNCIA
+1830,Joan XXIII - Pere Cabanes,AV JUAN XXIII 38 ACC - VALÈNCIA
+1831,Joan XXIII - Francisco Comes Martinez,AV JUAN XXIII 45 ACC (DAVANT) - VALÈNCIA
+1832,Equador - Salvador Tuset,AV ECUADOR  EL 93 - VALÈNCIA
+1833,Equador - Verbena,AV ECUADOR  EL S/N (JUNT.C/VERBENA) - VALÈNCIA
+1834,Poeta Serrano Clavero - Equador,C  43 (DAVANT) - VALÈNCIA
+1835,Federico Alcacer Aguilar - Poeta Serrano Clavero,C  26 (DAVANT) - VALÈNCIA
+1836,Federico Alcacer Aguilar - Joan XXIII,C  1 - VALÈNCIA
+1837,Riu Nervión - Riu Segre,C  11 - VALÈNCIA
+1838,Duc de Mandas - Constitució,C DUQUE DE MANDAS 8 - VALÈNCIA
+1839,Duc de Mandas (par) - Arquitecto Rodríguez,C DUQUE DE MANDAS 24 - VALÈNCIA
+1840,Duc de Mandas - Motilla del Palancar,C DUQUE DE MANDAS 38 - VALÈNCIA
+1841,Valladolid - Vinaròs,AV  4 - VALÈNCIA
+1842,Valladolid - Dolores Marqués,AV  5 ACC - VALÈNCIA
+1843,Duc de Mandas - Alfahuir,C DUQUE DE MANDAS 43 AC - VALÈNCIA
+1844,Duc de Mandas - Sant Vicent de Paül,C DUQUE DE MANDAS 24 (DAVANT) - VALÈNCIA
+1845,Duc de Mandas (impar) - Arquitecto Rodríguez,C DUQUE DE MANDAS 17 - VALÈNCIA
+1846,Pere Cabanes - Camí Montcada,C PEDRO CABANES 104 - VALÈNCIA
+1847,Castellonet - Joan XXIII,C  1 (DAVANT) - VALÈNCIA
+1848,Castellonet - Alfara del Patriarca,C  19 (DAVANT) - VALÈNCIA
+1849,Equador - General Llorens,AV ECUADOR  EL 34 - VALÈNCIA
+1850,Equador - Music Fayos,AV ECUADOR  EL 69 (DAVANT) - VALÈNCIA
+1851,Baró de Càrcer - Roger de Flor,AV BARON DE CARCER 26 - VALÈNCIA
+1854,Peris i Valero - Duc de Calàbria,AV PERIS Y VALERO 165 - VALÈNCIA
+1858,Castelló - Estació Nord,C  2 - VALÈNCIA
+1859,Carters - Pl. Santiago Suárez,C CARTEROS 38 (DAVANT) - VALÈNCIA
+186,Primat Reig - Jaume Roig,AV PRIMADO REIG 70 - VALÈNCIA
+1860,Uruguai - Marques de Bellet,C URUGUAY 53 ACC - VALÈNCIA
+1861,Constitució - Reig Genovés,AV CONSTITUCION 182 - VALÈNCIA
+1862,Constitució - Coronel Montesinos,AV CONSTITUCION 180 AC (DAVANT) - VALÈNCIA
+1865,Pérez Galdós - Sant Josep de la Muntanya,AV PEREZ GALDOS 131 (DAVANT) - VALÈNCIA
+1866,Arxiduc Carles - Fontanars dels Aforins,C ARCHIDUQUE CARLOS 81 (DAVANT) - VALÈNCIA
+188,Primat Reig - Campus Universitari,AV PRIMADO REIG 108 - VALÈNCIA
+1883,Fra Juníper Serra -Torrent,C  64 (DAVANT) - VALÈNCIA
+1885,Alcàsser - Ciutat de Mislata,C ALCACER 54 (DAVANT) - VALÈNCIA
+1886,Alcàsser - Poeta Alberto Lista,C ALCACER 9 - VALÈNCIA
+1887,Blasco Ibañez - Palleter,AV BLASCO IBAÑEZ 27 - MISLATA
+1888,Doctor J. J. Dòmine (via servici)- Port,C DOCTOR J.J. DOMINE 6 (DAVANT) - VALÈNCIA
+1895,Catalunya - Clariano,AV CATALUÑA 21 (DAVANT) - VALÈNCIA
+1896,Tarongers - Facultat de Dret,AV NARANJOS  LOS 6 - VALÈNCIA
+1897,Tarongers - Facultat d'Economia,AV NARANJOS  LOS 10 ACC - VALÈNCIA
+1898,Tarongers - Aparcament,AV NARANJOS  LOS S/N (JUNT APARCAMENT) - VALÈNCIA
+1900,Tarongers - Col.legi Major,AV NARANJOS  LOS 8 (DAVANT) - VALÈNCIA
+1901,Catalunya - Vicent Zaragoza,AV CATALUÑA 21 - VALÈNCIA
+1902,Catalunya - Guardia Civil,AV CATALUÑA S/N (JARDÍ) - VALÈNCIA
+1905,Tres Creus - Gaspar Aguilar,AV TRES CRUCES S/N (GASPAR AGUILAR) - VALÈNCIA
+1918,Tarongers - Fausto Elio,AV NARANJOS  LOS S/N - VALÈNCIA
+1919,Parc Natzaret - Pont de Drassanes,C PARQUE NAZARET 12 (DAVANT) - VALÈNCIA
+192,Primat Reig - Camí Vera,AV PRIMADO REIG 181 - VALÈNCIA
+1922,Sant Antoni - Enric Valor,AV SAN ANTONIO 119 - MISLATA
+1928,Gaspar Aguilar - Montesa,AV GASPAR AGUILAR 74 - VALÈNCIA
+1929,Gaspar Aguilar (par) - Dr. Tomas Sala,AV GASPAR AGUILAR 131 (DAVANT) - VALÈNCIA
+1930,Gaspar Aguilar (impar) - Dr.Tomas Sala,AV GASPAR AGUILAR 131 - VALÈNCIA
+1931,Gaspar Aguilar - Músic Penella,AV GASPAR AGUILAR 99 - VALÈNCIA
+1932,Gaspar Aguilar - Costa i Borràs,AV GASPAR AGUILAR 49 - VALÈNCIA
+1936,Campos Crespo - Arquitecte Segura de Lago,C CAMPOS CRESPO 96 - VALÈNCIA
+1937,Arquitecte Segura de Lago - Dr. Rafael Bartual,C ARQUITECTO SEGURA DE LAGO 28 - VALÈNCIA
+1938,Tres Creus - Bolívia,AV TRES CRUCES 78 DAVANT (CARRIL BUS) - VALÈNCIA
+1939,Armada Espanyola - Francesc Cubells,PL ARMADA ESPAÑOLA S/N - VALÈNCIA
+194,Primat Reig - Emili Baró,AV PRIMADO REIG 123 - VALÈNCIA
+1940,Músic Cuesta - Pare Presentat,PL MUSICO CUESTA S/N - VALÈNCIA
+1943,Bulevard Sud- Pont,AV  S/N (CARRIL BUS) - VALÈNCIA
+1944,Bulevard Sud (par) - Malilla,AV  S/N (CARRIL BUS) - VALÈNCIA
+1946,Bulevard Sud (par) - Hospital la Fe,AV  S/N (CARRIL BUS) - VALÈNCIA
+1947,Bulevard Sud (impar) - Juan Ramón Jiménez,AV  S/N - VALÈNCIA
+1949,Tarongers - Facultat de Magisteri,AV NARANJOS  LOS 4 DUP - VALÈNCIA
+1950,Pere II El Cerimonios - Luis Merelo y Mas,C  1-3 (DAVANT) - VALÈNCIA
+1951,Pere II El Cerimonios - Vicente Beltrán Grimalt,C  17 ACC (DAVANT) - VALÈNCIA
+1952,Pintor Maella - Vicent Vidal (Cronista),C  24 - VALÈNCIA
+1953,Pintor Maella (par) - França,C  30 - VALÈNCIA
+1954,Pintor Maella - Luis Bolinchés Compañ,C  37 (DAVANT) - VALÈNCIA
+1955,Pintor Maella - Menorca,C  37 - VALÈNCIA
+1956,Pintor Maella (impar) - França,C  33 - VALÈNCIA
+1957,Pintor Maella - Balears,C  24 (DAVANT) - VALÈNCIA
+1958,Pintor Maella - Illes Canàries,C  3 - VALÈNCIA
+1959,Blanqueria - Pare d' Òrfens,C BLANQUERIAS 14 - VALÈNCIA
+1961,Alfahuir - Germans Machado,C  49 - VALÈNCIA
+1962,Mestre Rodrigo - Canal de Navarrés,AV MAESTRO RODRIGO 88 - VALÈNCIA
+1963,Camí del Canal -Club Náutico,CAMI CANAL 91 - VALÈNCIA
+1964,Bulevard Sud (impar) - Hospital la Fe,AV  S/N (CARRIL BUS) - VALÈNCIA
+1965,Bulevard Sud (impar) - Malilla,AV  S/N (CARRIL BUS) - VALÈNCIA
+1968,Ramón i Cajal - Plaça Espanya,GV RAMON Y CAJAL 18 - VALÈNCIA
+1969,San Vicent Màrtir - Mestre Sosa,C SAN VICENTE MARTIR S/N (JARDÍ) - VALÈNCIA
+197,Primat Reig - Sant Vicent de Paül,AV PRIMADO REIG 35 - VALÈNCIA
+198,Pare Viñas - Reig Genovés,C PADRE VIÑAS 46 - VALÈNCIA
+1980,Major de Natzaret - Castell de Pop,C MAYOR DE NAZARET 132 - VALÈNCIA
+1981,Ares d'Alpont - Castell de Pop,PL  3 (DAVANT) - VALÈNCIA
+1988,Alfahuir - Cercle de Belles Arts,C  42 - VALÈNCIA
+1989,Alfahuir - Actor Ismael Merlo,C  47 ACC (DAVANT) - VALÈNCIA
+199,Pare Viñas - Duc de Mandas,C PADRE VIÑAS 72 - VALÈNCIA
+1990,Alfahuir - Dr. José Chabas Bordehore,C  41 - VALÈNCIA
+1991,Alfahuir - Arquitecte Tolsà,C  27 ACC - VALÈNCIA
+1993,Ausiàs March - Oltà,AV AUSIAS MARCH 44 - VALÈNCIA
+1994,Bulevard Sud - Ausiàs March,AV  S/N (GASOLINERA) - VALÈNCIA
+1999,Tres Forques - Casa Misericòrdia,C TRES FORQUES 149 ACC. - VALÈNCIA
+20,la Malva-rosa - Mendizábal,AV MALVARROSA 123 - VALÈNCIA
+200,Pare Viñas - Daroca,C PADRE VIÑAS 92 - VALÈNCIA
+2004,Cid (via servici) - Alejandro Volta,AV CID 99 (VIA SERV.) - VALÈNCIA
+2005,Marconi - Barri de la Llum,AV MARCONI 17 ACC. - VALÈNCIA
+2006,Pare Esteban Pernet (impar) - Miquel Adlert,C PADRE ESTEBAN PERNET 22 (DAVANT) - VALÈNCIA
+2007,Pare Esteban Pernet - Casa Misericòrdia,C PADRE ESTEBAN PERNET 19 ACC. - VALÈNCIA
+2008,Pare Esteban Pernet (par) - Miquel Adlert,C PADRE ESTEBAN PERNET 22 - VALÈNCIA
+2009,Tres Creus - Music Ayllón,AV TRES CRUCES 31 - VALÈNCIA
+2014,Poeta Querol - Barques,C POETA QUEROL 14 - VALÈNCIA
+202,Sant Joan Bosco - Daroca,C SAN JUAN BOSCO 87 - VALÈNCIA
+2027,Port - Trafalgar,AV PUERTO 204 - VALÈNCIA
+2030,Orxata - Ausiàs March,AV ORXATA   DE  L' 37 (DAVANT) - ALBORAIA
+2031,Giorgeta (par) - Roís de Corella,AV GIORGETA 28 - VALÈNCIA
+2032,Comte de Trénor - Pont de Fusta,C CONDE DE TRENOR 4-6 - VALÈNCIA
+2034,Cronista Rivelles - Pl. Sta. Mónica,C CRONISTA RIVELLES 7-8 - VALÈNCIA
+2041,Professor López Piñero (par) - Institut Obrer de València,AUTV AUTOVIA AL SALER INST.OBRER (PAR) - VALÈNCIA
+2042,Professor López Piñero (par)  - Ciutat de la Justícia,AUTV AUTOVIA AL SALER 14 - VALÈNCIA
+2043,Eduardo Primo Yúfera - Front Àgora,C  S/N - VALÈNCIA
+2044,Eduardo Primo Yúfera - Front Oceanogràfic,C  S/N - VALÈNCIA
+2045,Eduardo Primo Yúfera - Front Centre Investigació,C  S/N - VALÈNCIA
+2046,Barraques del Figuero (par) - Llauradors,CAMI  1 (DAVANT) - VALÈNCIA
+2047,Barraques del Figuero - Ignacio Zuloaga,CAMI  2 ACC. - VALÈNCIA
+2048,Barraques del Figuero - Cocoters,CAMI  S/N - VALÈNCIA
+2049,Barraques del Figuero (impar) - Llauradors,CAMI  1 - VALÈNCIA
+2050,Eduardo Primo Yúfera - Centre d'Investigació,C  S/N - VALÈNCIA
+2051,Eduardo Primo Yúfera - Oceanogràfic,C  S/N - VALÈNCIA
+2052,Eduardo Primo Yúfera - Àgora,C  S/N - VALÈNCIA
+2053,Professor López Piñero - Museu de les Ciències,AUTV AUTOVIA AL SALER S/N - VALÈNCIA
+2054,Professor López Piñero (impar) - Institut Obrer de València,AUTV AUTOVIA AL SALER DAVANT.I.OBRER - VALÈNCIA
+2059,Eivissa - Port,C  4 - VALÈNCIA
+206,Primat Reig - Bilbao,AV PRIMADO REIG 14 - VALÈNCIA
+2060,Eivissa (par) - Illes Canàries,C  6 - VALÈNCIA
+2063,Cases de Bàrcena - Rotonda,CRA CASAS DE BARCENA 111 - CASES DE BÀRCENA
+2064,Terrateig - Jorge Comín,C  2-B - VALÈNCIA
+2066,Vall de la Ballestera impar - Hernández Lázaro,C VALLE DE LA BALLESTERA 65 - VALÈNCIA
+2067,Vall de la Ballestera - Eduardo Soler i Pérez,C VALLE DE LA BALLESTERA 43 - VALÈNCIA
+2069,Terrateig - Poeta Rafael Alberti,C  1 - VALÈNCIA
+207,Primat Reig - Almassora,AV PRIMADO REIG 44 - VALÈNCIA
+2070,Nou d'Octubre (par) - Castan Tobeñas,C NUEVE DE OCTUBRE 8 ACC - VALÈNCIA
+2071,Nou d'Octubre - Conselleries (I),C NUEVE DE OCTUBRE S/N CONSELLERIES - VALÈNCIA
+2072,Nou d'Octubre - Conselleries (II),C NUEVE DE OCTUBRE S/N - VALÈNCIA
+2077,Germanies - Alacant,GV GERMANIAS 36 - VALÈNCIA
+2078,Filipines - Literat Azorín,C FILIPINAS 23 DAVANT - VALÈNCIA
+2080,Germanies - Cuba,GV GERMANIAS 45 - VALÈNCIA
+2084,Vinalesa,CTRA VINALESA  DE S/N - VINALESA
+2085,Cecili Pla - Germans Machado,C CECILIO PLA 4 - VALÈNCIA
+2086,Racó d'Ademús - Conselleries,C RINCON DE ADEMUZ 25 (DAV) - VALÈNCIA
+2089,Castan Tobeñas - Conselleries,C CASTAN TOBEÑAS 80 - VALÈNCIA
+2093,Manuel de Falla - Hernández Lázaro,AV MANUEL DE FALLA 13 - VALÈNCIA
+2094,Molinell (par) - Pintor Genaro Lahuerta,C MOLINELL 24 ACC - VALÈNCIA
+2095,Molinell (impar) - Pintor Genaro Lahuerta,C MOLINELL 21 - VALÈNCIA
+2096,Pío Baroja - Manuel de Falla,AV  2ACC - VALÈNCIA
+2097,Vall de la Ballestera (impar) - Mestre Rodrigo,C VALLE DE LA BALLESTERA 37 - VALÈNCIA
+2098,Vall de la Ballestera - Luis Buñuel,C VALLE DE LA BALLESTERA 42 - VALÈNCIA
+2099,Nou d'Octubre - Av. del Cid,C NUEVE DE OCTUBRE S/N (ILLETA) - VALÈNCIA
+2100,Tres Creus (par) - Campos Crespo,AV TRES CRUCES 133 CARRIL BUS (DAVANT) - VALÈNCIA
+2105,Moncada - Alfara,AV  S/N - MONCADA
+2111,Mare Nostrum - Illa de Tabarca,AV MARE NOSTRUM 14 - ALBORAIA
+2112,Mare Nostrum - Mar Tirreno,AV MARE NOSTRUM 38 - ALBORAIA
+2113,Blasco Ibáñez - Mar Tirreno,C  S/N - ALBORAIA
+2114,Blasco Ibáñez,C  S/N - ALBORAIA
+2122,Punta al Mar - Algemesí,CAMI PUNTA AL MAR  DE LA 89 (DAVANT) - VALÈNCIA
+2127,Filipines - Gibraltar,C FILIPINAS 2ACC - VALÈNCIA
+2128,Filipines - Puerto Rico,C FILIPINAS 11 - VALÈNCIA
+215,Alboraia - Primat Reig,C ALBORAYA 74 - VALÈNCIA
+2154,Filipines - Manuel Sanchis Guarner,C FILIPINAS 35 ACC. - VALÈNCIA
+2157,Ausiàs March - Pianista Martínez Carrasco,AV AUSIAS MARCH 104 ACC - VALÈNCIA
+2158,Bulevard Sud - Ing. Joaquín Benlloch,AV  S/N VIA SERVICIO - VALÈNCIA
+2159,Joaquin Benlloch - Pl. Pintor Andreu,C INGENIERO JOAQUÍN BENLLOCH 87 (DAVANT) - VALÈNCIA
+216,Primat Reig - Calderón de la Barca,AV PRIMADO REIG 101 (DAVANT JARDÍ) - VALÈNCIA
+2160,Burjassot - Marxalenes,AV BURJASOT S/N - VALÈNCIA
+2161,Rafael Tenes Escrich - Mercat,C RAFAEL TENES ESCRICH 4 - BENIMÀMET
+2163,Carrera del Riu (par) - Coll Vert,CRA RIU  DEL S/N CAMPING COLL VERT - VALÈNCIA
+2164,Carrera del Riu (par) - Camping Valencia,CRA RIU  DEL S/N CAMPING VALENCIA - VALÈNCIA
+2165,Pinars (par) - El Saler,AV  10 - VALÈNCIA
+2166,Gola de Puchol (I),AV  S/N - VALÈNCIA
+2167,Gola de Puchol (II),AV  S/N - VALÈNCIA
+2168,Embarcador de l'Albufera (I),AV  S/N EMBARCADERO - VALÈNCIA
+2169,Pinars - Carretera del Palmar,AV  S/N CRUCE EL PALMAR - VALÈNCIA
+2170,Carretera del Palmar (par) - Cementeri,C  S/N CEMENTERIO - VALÈNCIA
+2171,Vicent Baldoví - Novelda,C  FTE. 28 - VALÈNCIA
+2172,Vicent Baldoví - el Palmar,C  1 - VALÈNCIA
+2173,Vicent Baldoví - Pintor Martí Girbés,C  28 - VALÈNCIA
+2174,Carretera del Palmar (impar) - Cementeri,C  S/N FTE CEMENTERIO - VALÈNCIA
+2175,Carretera del Palmar - Pinars,AV  S/N CRUCE EL PALMAR - VALÈNCIA
+2176,Gavines (par) - Camping,AV  S/N DEVESA GARDEN - VALÈNCIA
+2177,Gavines - Sotavent,AV  35 - VALÈNCIA
+2178,Gavines - Entrada Trenca Perols,AV  FTE. 59 - VALÈNCIA
+2179,Gavines - Entrada Filero,AV  FTE. 107 - VALÈNCIA
+2180,Gavines (par) - Platja,AV  FTE 145 - VALÈNCIA
+2181,Gavines (par) - Sirena,AV  FTE. 173 - VALÈNCIA
+2182,Gavines - Entrada Paridera,AV  FTE. 197 - VALÈNCIA
+2183,Gavines - Entrada Ventura,AV  FTE. 225 - VALÈNCIA
+2184,Gavines (par) - Les Escales,AV  FTE. 249 - VALÈNCIA
+2185,Gavines - Entrada a la Baixada del Pantà,AV  FTE. 283 - VALÈNCIA
+2187,Gavines - Bitàcora,AV  289 - VALÈNCIA
+2188,Gavines (impar) - Les Escales,AV  249 - VALÈNCIA
+2189,Gavines - Front Entrada Ventura,AV  225 - VALÈNCIA
+219,Aragó - Passeig Albereda,AV ARAGÓN 3 - VALÈNCIA
+2190,Gavines - Dofins,AV  197 - VALÈNCIA
+2191,Gavines (impar) - Sirena,AV  173 - VALÈNCIA
+2192,Gavines (impar) - Platja,AV  145 - VALÈNCIA
+2193,Gavines - Les dunes,AV  107 - VALÈNCIA
+2194,Gavines - Botavara,AV  59 - VALÈNCIA
+2195,Gavines (impar) - Camping,AV  S/N FTE. DEVESA GARDENS - VALÈNCIA
+2196,Embarcador de l'Albufera (II),AV  S/N FTE. EMBARCADERO - VALÈNCIA
+2197,Gola de Puchol (III),AV  S/N - VALÈNCIA
+2198,Gola de Puchol (IV),AV  S/N - VALÈNCIA
+2200,Pinars (impar) - El Saler,AV  FTE. 10 - VALÈNCIA
+2201,Carrera del Riu (impar) - Camping Valencia,CRA RIU  DEL S/N FTE. CAMPING VALENCIA - VALÈNCIA
+2202,Carrera del Riu (impar) - Coll Vert,CRA RIU  DEL S/N FTE. COLL VERT - VALÈNCIA
+2203,Carrera del Riu - Montanyars,CRA RIU  DEL S/N ROTONDA - VALÈNCIA
+2205,Albufera - Pl. de la Sequiota,C  2 - VALÈNCIA
+2206,Pl. Amèrica - Navarro Reverter,AV NAVARRO REVERTER 24 - VALÈNCIA
+2207,Carrera del Riu (par) - Rotonda Autovia,CRA RIU  DEL FTE 257 - VALÈNCIA
+2208,Carrera del Riu (impar) - Rotonda Autovia,CRA RIU  DEL 232 - VALÈNCIA
+2210,Sant Vicent Màrtir - Ànimes,C SAN VICENTE MARTIR 63-65-67 - VALÈNCIA
+2213,Aragó (impar) - Blasco Ibáñez,AV ARAGÓN 35 - VALÈNCIA
+2214,Mercat Central - Llotja,PL CIUDAD DE BRUJAS 2 ACC. - VALÈNCIA
+2215,Joaquín Benlloch - Bulevard Sud,C INGENIERO JOAQUÍN BENLLOCH S/N BULEVAR - VALÈNCIA
+2218,Centelles - Filipines,C CENTELLES  LOS 64-62 - VALÈNCIA
+2220,Pl. de l'Ajuntament - Mercat Central - Llotja,PL AYUNTAMIENTO 9 (DAVANT) ILLETA - VALÈNCIA
+2223,Tetuan,PL TETUAN 3 - VALÈNCIA
+2224,Ignacio de Zuloaga - Castell de Pop,C  28 - VALÈNCIA
+2225,Camí Nou de Paterna - Aldaia,CAMI PATERNA (CNO. NUEVO) 161 (DAVANT) - BENIMÀMET
+2226,Campament - Canonge Fenollera,C CAMPAMENTO  DEL 61 - BENIMÀMET
+2229,Estació del Cabanyal,C MARINO BLAS DE LEZO 12ACC - VALÈNCIA
+223,General Elío - Blasco Ibáñez,C GENERAL ELIO 2 - VALÈNCIA
+2230,Camp de Túria - Palau de Congressos,C CAMP DEL TURIA 2ACC - VALÈNCIA
+2231,Alboraia - Pintor Vilar,C ALBORAYA 24-26 - VALÈNCIA
+2232,Alboraia - Jaca,C ALBORAYA 44 ACC. - VALÈNCIA
+2233,Almassora - Argenter Suàrez,C ALMAZORA 56 (DAVANT) - VALÈNCIA
+2234,Almassora - Pintor Vilar,C ALMAZORA 16ACC (DAV) - VALÈNCIA
+2235,Actor Antonio Ferrandis (par) - Centre Comercial,AV  S/N (C.C.SALER) - VALÈNCIA
+2236,Actor Antonio Ferrandis (par) - General Urrutia,AV  4 - VALÈNCIA
+2238,Actor Antonio Ferrandis (par) - Font de St. Lluís,AV  S/N (COL.LEGI) - VALÈNCIA
+2239,Actor Antonio Ferrandis (impar) - Font de St. Lluís,AV  S/N (FRONT COL.LEGI) - VALÈNCIA
+224,General Elío - Vivers,C GENERAL ELIO REIXA VIVERS - VALÈNCIA
+2241,Actor Antonio Ferrandis (impar) - General Urrutia,AV  4 (DAVANT) - VALÈNCIA
+2242,Actor Antonio Ferrandis (impar) - Centre Comercial,AV  S/N (C.C.SALER DAVANT) - VALÈNCIA
+2243,Tres Creus - Campos Crespo,AV TRES CRUCES S/N (CARRIL BUS) - VALÈNCIA
+2244,Tres Creus - Arxiduc Carles,AV TRES CRUCES 54 (CARRIL BUS) - VALÈNCIA
+2245,Tres Creus - Marià de Càvia,AV TRES CRUCES S/N (CARRIL BUS) - VALÈNCIA
+2246,Mare Nostrum - Alboran,AV MARE NOSTRUM 31 - ALBORAIA
+2247,Mare Nostrum - la Patacona,AV MARE NOSTRUM 56 - ALBORAIA
+2248,Blasco Ibáñez - la Patacona,C  S/N - ALBORAIA
+2249,Casa Misericòrdia (impar) - Escultor Salzillo,C CASA MISERICORDIA 11ACC - VALÈNCIA
+225,Cardenal Benlloch - Ciutat de Mula,AV CARDENAL BENLLOCH 99 - VALÈNCIA
+226,Cardenal Benlloch - Ernest Ferrer,AV CARDENAL BENLLOCH 69 - VALÈNCIA
+2262,Palmaret (par) - Montcada,AV PALMARET  DEL S/N - CARPESA
+2263,Marcos Sopena - Eugènia Viñes,C DOCTOR MARCOS SOPENA S/N (FGV) - VALÈNCIA
+2266,Fra Juníper Serra (par) - Torrent,C  52 - VALÈNCIA
+2267,Fra Juníper Serra - Tres Forques,C  80 - VALÈNCIA
+227,Ernest Ferrer - Polo y Peyrolón,C ERNESTO FERRER 13 - VALÈNCIA
+2273,Oltà - Joaquín Benlloch,C OLTA 40 - VALÈNCIA
+229,Cardenal Benlloch (impar) - Port,AV CARDENAL BENLLOCH 5 - VALÈNCIA
+230,Eduard Boscà - Passeig de l'Albereda,C EDUARDO BOSCA 32 - VALÈNCIA
+231,Eduard Boscà - Balears,C EDUARDO BOSCA 31 - VALÈNCIA
+238,Dr. Peset Aleixandre - Joan XXIII,AV DOCTOR PESET ALEIXANDRE 94 - VALÈNCIA
+24,la Malva-rosa - Sant Rafael,AV MALVARROSA 57 - VALÈNCIA
+242,Dr. Peset Aleixandre - Guardacostes,AV DOCTOR PESET ALEIXANDRE 105 - VALÈNCIA
+243,Dr. Peset Aleixandre - Camí de Montcada,AV DOCTOR PESET ALEIXANDRE 71 - VALÈNCIA
+244,Dr. Peset Aleixandre - Constitució,AV DOCTOR PESET ALEIXANDRE 5 - VALÈNCIA
+246,Constitució - Duc de Mandas,AV CONSTITUCION 216 - VALÈNCIA
+247,Constitució - Sant Joan de la Penya,AV CONSTITUCION 256 - VALÈNCIA
+248,Constitució - Sant Miquel dels Reis,AV CONSTITUCION 282 - VALÈNCIA
+249,Constitució (par) - Campaneta,AV CONSTITUCION 332 - VALÈNCIA
+25,la Malva-rosa - Sant Joan de Deu,AV MALVARROSA 39 - VALÈNCIA
+250,Constitució (par) - Tavernes Blanques,AV CONSTITUCION 360 - VALÈNCIA
+257,Constitució (impar) - Tavernes Blanques,AV CONSTITUCION 355 - VALÈNCIA
+258,Constitució (impar) - Campaneta,AV CONSTITUCION 311 - VALÈNCIA
+259,Constitució - Camí Àngel,AV CONSTITUCION 273 - VALÈNCIA
+26,la Malva-rosa - Riu Tajo,AV MALVARROSA 21 - VALÈNCIA
+268,Joan XXIII (par) - Dr. Marco Merenciano,AV JUAN XXIII 10 - VALÈNCIA
+272,Sant Doménec Savio - Mestre Marçal,C SANTO DOMINGO SAVIO 13 - VALÈNCIA
+273,Sant Doménec Savio - Constitució,C SANTO DOMINGO SAVIO 5 - VALÈNCIA
+279,Camí de Montcada - Dr. Peset Aleixandre,CAMI MONCADA 50 - VALÈNCIA
+280,Camí de Montcada (par) - Cambrils,CAMI MONCADA 92 - VALÈNCIA
+281,Camí de Montcada (par) - Alemany,CAMI MONCADA 121 (DAVANT) - VALÈNCIA
+282,Camí de Montcada - Entrada Camí Carpesa,CAMI MONCADA 188 - VALÈNCIA
+283,Camí de Montcada - Poble Nou,CAMI MONCADA 218 - VALÈNCIA
+284,Camí de Montcada - Casa d'Àngel,CAMI MONCADA 260 - VALÈNCIA
+285,Cami de Montcada - Alqueria Ballester,CAMI MONCADA 328 - VALÈNCIA
+286,Camí de Montcada (par) - Matador,CAMI MONCADA 382 (ENTRADA BORBOTÓ) - VALÈNCIA
+290,Palmaret - Reverend J. Valero,AV PALMARET  DEL 103 - CARPESA
+291,Camí de Montcada (par) - Alqueria Senent,CTRA BENIFARAIG A MONCADA S/N - VALÈNCIA
+292,Benifaraig a Montcada - Casa Silvestre,CAMI MONCADA S/N (SILVESTRE) - VALÈNCIA
+296,Benifaraig a Montcada - Boquera,CTRA BENIFARAIG A MONCADA S/N - VALÈNCIA
+297,Camí de Montcada (impar) - Alqueria Senent,CAMI MONCADA S/N - VALÈNCIA
+299,Camí de Montcada (impar) - Matador,CAMI MONCADA A BORBOTÓ - VALÈNCIA
+300,Camí de Montcada - Alqueria Paella,CAMI MONCADA 313 - VALÈNCIA
+301,Camí de Montcada - Ctra. Daniel,CAMI MONCADA 247 - VALÈNCIA
+302,Camí de Montcada - Camí a Poble Nou,CAMI MONCADA 217 - VALÈNCIA
+303,Camí de Montcada - Ctra. Carpesa,CAMI MONCADA 181 - VALÈNCIA
+304,Camí de Montcada (impar) - Alemany,CAMI MONCADA 123 - VALÈNCIA
+305,Camí de Montcada (impar) - Cambrils,CAMI MONCADA 96 (DAVANT) - VALÈNCIA
+306,Camí de Montcada - Dr. Marco Merenciano,CAMI MONCADA 61 - VALÈNCIA
+307,Burjassot - Mondúver,AV BURJASOT 130 - VALÈNCIA
+308,Burjassot - Pintor Matarana,AV BURJASOT 186 - VALÈNCIA
+309,Burjassot - Salvador Tuset,AV BURJASOT 230 - VALÈNCIA
+310,Louis Braille - Betxí,C LUIS BRAILLE 2 - VALÈNCIA
+311,Sant Josep Artesà - Luis Martí Alegre,AV SAN JOSE ARTESANO 16 - VALÈNCIA
+314,Louis Braille - Burjassot,C LUIS BRAILLE 2 (DAVANT) - VALÈNCIA
+318,Dr. Nicasi Benlloch - General Avilés,C DOCTOR NICASIO BENLLOCH ILLETA EIXIDA TÚNEL - VALÈNCIA
+319,Campanar - Dr. Nicasi Benlloch,AV CAMPANAR 1 - VALÈNCIA
+321,Sagunt - Sant Guillem,C SAGUNTO 58 ACC - VALÈNCIA
+322,Sagunt - Fra Pere Vives,C SAGUNTO 110 - VALÈNCIA
+323,Sagunt - Pare Urbà,C SAGUNTO 168 - VALÈNCIA
+324,Sagunt - Don Bosco,C SAGUNTO 192 - VALÈNCIA
+325,Constitució - Dr. Peset Aleixandre,AV CONSTITUCION 127 - VALÈNCIA
+326,Constitució - Xest,AV CONSTITUCION 85 - VALÈNCIA
+327,Constitució - Sarrión,AV CONSTITUCION 39 - VALÈNCIA
+328,Constitució - Màlaga,AV CONSTITUCION 27 - VALÈNCIA
+329,Constitució - Pla de la Saïdia,AV CONSTITUCION ILLETA SAÏDIA - VALÈNCIA
+330,Burjassot - Màlaga,AV BURJASOT 26 - VALÈNCIA
+331,Burjassot - Reus,AV BURJASOT 56 - VALÈNCIA
+333,Burjassot - Dr. Peset Aleixandre,AV BURJASOT 114 - VALÈNCIA
+334,Camí de Montcada - Economista Gay,CAMI MONCADA 35 - VALÈNCIA
+337,Dr. Moliner - Arts Gràfiques,C DOCTOR MOLINER 10 - VALÈNCIA
+338,Sant Pius V - Alboraia,C SAN PIO V 3 - VALÈNCIA
+339,la Plata - Sapadors,AV PLATA  DE  LA 59 - VALÈNCIA
+341,Cronista Rivelles - Santa Amàlia,C CRONISTA RIVELLES 1 FGV - VALÈNCIA
+342,Guadalaviar - Sagunt,C GUADALAVIAR 2 - VALÈNCIA
+343,Pla de la Saïdia - Constitució,C LLANO DE LA ZAIDIA 2 - VALÈNCIA
+344,Pla de la Saïdia - Burjassot,C LLANO DE LA ZAIDIA 18 - VALÈNCIA
+345,Menéndez Pidal (par) - Pare Ferrís,AV MENENDEZ PIDAL 2 - VALÈNCIA
+346,Menéndez Pidal - Estació d'autobusos,AV MENENDEZ PIDAL 14 - VALÈNCIA
+347,Menéndez Pidal - Passarel.la,AV MENENDEZ PIDAL PETRIL RIU - VALÈNCIA
+348,Menéndez Pidal - Estació d'autobusos (riu),AV MENENDEZ PIDAL 14 (DAVANT RIU) - VALÈNCIA
+349,Menéndez Pidal (impar) - Pare Ferrís,AV MENENDEZ PIDAL 1 (DAVANT) - VALÈNCIA
+350,Pla de la Saïdia - Pont Sant Josep,C LLANO DE LA ZAIDIA 18 (DAVANT) - VALÈNCIA
+351,Pla de la Saïdia (riu) - Constitució,C LLANO DE LA ZAIDIA 13 (DAVANT) - VALÈNCIA
+352,Guadalaviar - Pont dels Serrans,C GUADALAVIAR 2 (DAVANT) - VALÈNCIA
+353,Dr. Nicasi Benlloch - Alcubles,C DOCTOR NICASIO BENLLOCH 3 - VALÈNCIA
+354,Pare Ferrís - Joaquím Ballester,C PADRE FERRIS 41 - VALÈNCIA
+358,Joaquím Ballester (par) - Ricardo Micó,C JOAQUÍN BALLESTER DAVANT JARDÍ - VALÈNCIA
+359,Joaquím Ballester - Campanar,C JOAQUÍN BALLESTER 45 (LA FE) - VALÈNCIA
+361,Joaquím Ballester (impar) - Ricardo Micó,C JOAQUÍN BALLESTER JARDÍ - VALÈNCIA
+362,Professor Beltrán Báguena - J.Ballester,C PROFESOR BELTRAN BAGUENA 4 - VALÈNCIA
+364,Campanar - Ricardo Micó,AV CAMPANAR 19 - VALÈNCIA
+367,Campanar - Joan Pau II,AV CAMPANAR 102 - VALÈNCIA
+368,Campanar - Tirso de Molina,AV CAMPANAR 128 - VALÈNCIA
+370,Campanar - Pius XII,AV CAMPANAR 27 - VALÈNCIA
+371,Pius XII - Menéndez Pidal,AV PIO XII 2 - VALÈNCIA
+372,Pius XII - Campanar,AV PIO XII 28 - VALÈNCIA
+373,Pius XII (par) - Monestir de Poblet,AV PIO XII 34 - VALÈNCIA
+375,Corts Valencianes - Davant Esc. Prof. Sant Josep,AV CORTS VALENCIANES 6 (ACCÉS) - VALÈNCIA
+376,Corts Valencianes (par) - la Safor,AV CORTS VALENCIANES 22 - VALÈNCIA
+381,Mossén Miguel Tarin (impar) - Carretera de Paterna,C PARROCO MIGUEL TARIN 49 - BENIMÀMET
+382,Mossén Miguel Tarin (impar) - Miquel Agraït,C PARROCO MIGUEL TARIN 25 - BENIMÀMET
+383,Dr. Soriano Benlloch - Rafael Tenes Escrich,C DOCTOR SORIANO BENLLOCH 2 - BENIMÀMET
+384,Lluís Cano,PL LUIS CANO 6 (DAVANT) - BENIMÀMET
+385,Campament - Felipe Valls,C CAMPAMENTO  DEL 8 - BENIMÀMET
+386,Campament (par) - Joaquín Marín,C CAMPAMENTO  DEL 55 - BENIMÀMET
+387,Polvorí - Sinarques,C SENDA DEL POLVORIN DAVANT HOTEL - BENIMÀMET
+388,Fires - Senda del Polvorí,AV FERIAS  DE LAS 2 (jto.Hotel) - BENIMÀMET
+389,Alginet - Algemesí,C ALGINET 4 - PATERNA (Terramelar)
+390,Almassora - Terramelar,C ALMASSORA 1 - PATERNA (Terramelar)
+391,Alginet - Alcossebre,C ALGINET 11 - PATERNA (Terramelar)
+392,Fires - Fira de Mostres,AV FERIAS  DE LAS PORTA PRINCIPAL - BENIMÀMET
+393,Polvorí - Velòdrom Lluis Puig,C SENDA DEL POLVORIN 24 (DAVANT) - BENIMÀMET
+394,Polvorí - Campament,C SENDA DEL POLVORIN HOTEL - BENIMÀMET
+395,Campament (impar) - Joaquín Marín,C CAMPAMENTO  DEL 53 - BENIMÀMET
+396,Pintor Garnelo - Campament,C PINTOR GARNELO 3 - BENIMÀMET
+397,Felipe Valls - Lluís Cano,C FELIPE VALLS 59 - BENIMÀMET
+399,Mossén Miguel Tarin (par) - Miquel Agraït,C PARROCO MIGUEL TARIN 16 - BENIMÀMET
+400,Mossén Miguel Tarin (par) - Carretera de Paterna,C PARROCO MIGUEL TARIN 38 - BENIMÀMET
+403,Corts Valencianes - l'Alt Maestrat,AV CORTS VALENCIANES S/N (CARRIL BUS) (IMPAR) - VALÈNCIA
+405,Corts Valencianes - Esc. Prof. de Sant Josep,AV CORTS VALENCIANES 1 - VALÈNCIA
+407,Pius XII - Bisbe Soler,AV PIO XII 17 - VALÈNCIA
+409,Pius XII - Tirso de Molina,AV PIO XII 1 - VALÈNCIA
+415,Vall de la Ballestera (par) - Mestre Rodrigo,C VALLE DE LA BALLESTERA 34 - VALÈNCIA
+419,Manuel de Falla - Mestre Rodrigo,AV MANUEL DE FALLA 1 - VALÈNCIA
+420,Manuel de Falla - Professor López Ibor,AV MANUEL DE FALLA S/N - VALÈNCIA
+422,Mestre Rodrigo - Manuel de Falla,AV MAESTRO RODRIGO 13 - VALÈNCIA
+425,Pérez Galdós - Castan Tobeñas,AV PEREZ GALDOS 137 - VALÈNCIA
+426,Pérez Galdós - Torres Torres,AV PEREZ GALDOS 117 - VALÈNCIA
+427,Pérez Galdós - Salvador Ferrandis Luna,AV PEREZ GALDOS 95 - VALÈNCIA
+428,Llorca - Pérez Galdós,C LORCA 4 - VALÈNCIA
+432,Pérez Galdós - Lladró i Mallí,AV PEREZ GALDOS 5 - VALÈNCIA
+434,Giorgeta - Ctra. D'Escrivà,AV GIORGETA JARDÍ - VALÈNCIA
+436,Giorgeta - Roís de Corella,AV GIORGETA 39 - VALÈNCIA
+439,Pérez Galdós - Conca,AV PEREZ GALDOS 30 - VALÈNCIA
+44,Pintor Ferrandis - Progrés,C PINTOR FERRANDIS 31 - VALÈNCIA
+441,Pérez Galdós - Calixt III,AV PEREZ GALDOS 88 - VALÈNCIA
+442,Pérez Galdós - Mestre Guerrero,AV PEREZ GALDOS 120 - VALÈNCIA
+443,Pérez Galdós - Dr. Zamenhof,AV PEREZ GALDOS 128 - VALÈNCIA
+444,Castan Tobeñas - Baladre,C CASTAN TOBEÑAS 18 - VALÈNCIA
+445,Joan XXIII - Periodista Gil Sumbiela,AV JUAN XXIII 29 - VALÈNCIA
+446,Castan Tobeñas - Velázquez,C CASTAN TOBEÑAS 48 - VALÈNCIA
+45,Pintor Ferrandis - Josep Benlliure,C PINTOR FERRANDIS 30 - VALÈNCIA
+450,Sant Antoni - La Senyera,AV SAN ANTONIO 14 - MISLATA
+451,Sant Antoni - Mare de Déu dels Desamparats,AV SAN ANTONIO 68 - MISLATA
+452,Sant Antoni - Túria,AV SAN ANTONIO 100 - MISLATA
+454,Sant Antoni - José Pomer,AV SAN ANTONIO 93 - MISLATA
+455,Sant Antoni - Marcos Porta,AV SAN ANTONIO 61 - MISLATA
+456,Sant Antoni - Major,AV SAN ANTONIO 3 - MISLATA
+46,Pintor Ferrandis - Àngels,C PINTOR FERRANDIS 4 - VALÈNCIA
+467,Blasco Ibáñez - Gregori Gea,AV BLASCO IBAÑEZ 30 - MISLATA
+47,Església dels Àngels - Pintor Ferrandis,PL IGLESIA DE LOS ANGELES 2 (DAVANT JARDÍ) - VALÈNCIA
+472,Petxina - Racó d'Ademús,PSEG PECHINA 71 - VALÈNCIA
+473,Brasil - Velàzquez,C BRASIL 71 - VALÈNCIA
+474,Brasil - Francisco Moreno Usedo,C BRASIL 37 - VALÈNCIA
+475,Brasil - Artur Piera,C BRASIL 3 - VALÈNCIA
+481,Linares - Pérez Galdós,C LINARES 4 - VALÈNCIA
+482,Cid - Germans Rivas,AV CID S/N (JUNT L TOTANA) - VALÈNCIA
+483,Cid - Burgos,AV CID 76 - VALÈNCIA
+484,Cid - Passatge Vidal,AV CID 108 - VALÈNCIA
+485,Cid - Nou d'Octubre,AV CID S/N (JARDÍ 9 D'OCTUBRE) - VALÈNCIA
+486,Cid - Particular,AV CID 152 (SEAT) - VALÈNCIA
+487,Cid - Eduard Marquina,AV CID 160 - VALÈNCIA
+488,Cid - Marcelino Oreja,AV CID 180 - VALÈNCIA
+493,Joan Baptista Comes - Antonio Machado,C JUAN BAUTISTA COMES 8 - VALÈNCIA
+495,Cid - Marconi,AV CID 85 - VALÈNCIA
+496,Cid - Hospital,AV CID 65 - VALÈNCIA
+498,Tres Creus (carril bus) - Rei Saud,AV TRES CRUCES 14 (CARRIL BUS) - VALÈNCIA
+50,Reina - Columbretes,C REINA (C.) 97 - VALÈNCIA
+500,Escultor Salzillo - Casa de la Misericòrdia,C ESCULTOR SALZILLO 10 - VALÈNCIA
+501,Colònia Esp. de Mèxic - Casa de la Misericòrdia,PL COLONIA ESPAÑOLA DE MEJICO 5 (IMPAR)(HORARI COL.LEGI) - VALÈNCIA
+504,Tres Creus - Àngel del Alcázar,AV TRES CRUCES 7 - VALÈNCIA
+506,Cid - Josep Maestre,AV CID 51 - VALÈNCIA
+507,Cid - Santa Cruz de Tenerife,AV CID 41 - VALÈNCIA
+508,Cid - Ènguera,AV CID JARDÍ ENGUERA - VALÈNCIA
+509,Arxiduc Carles - Xiva,C ARCHIDUQUE CARLOS 8 - VALÈNCIA
+510,Arxiduc Carles - Énguera,C ARCHIDUQUE CARLOS 41 (DAVANT) - VALÈNCIA
+511,Tres Forques (par) - Arxiduc Carles,C TRES FORQUES 77 (DAVANT) - VALÈNCIA
+512,Tres Forques - Santa Cruz de Tenerife,C TRES FORQUES 82 - VALÈNCIA
+513,Tres Forques - Josep Maestre,C TRES FORQUES 98 - VALÈNCIA
+514,Tres Creus (carril bus) - Llombai,AV TRES CRUCES 49 (ACCÉS CARRIL BUS) - VALÈNCIA
+515,Tres Creus (carril bus) - Músic Ayllón,AV TRES CRUCES 31 (CARRIL BUS) - VALÈNCIA
+524,José Andreu Alabarta - Mariano de Cavia,C JOSE ANDREU ALABARTA 35 - VALÈNCIA
+525,José Andreu Alabarta - Professor Àngel Lacalle,C JOSE ANDREU ALABARTA 13 - VALÈNCIA
+529,Tres Forques - Emili Lluch,C TRES FORQUES 125 - VALÈNCIA
+530,Tres Forques - Mare de Déu de la Cabeça,C TRES FORQUES 99 (ACCÉS) - VALÈNCIA
+531,Tres Forques (impar) - Arxiduc Carles,C TRES FORQUES 77 - VALÈNCIA
+532,Tres Forques - Churat i Saurí,C TRES FORQUES 33 - VALÈNCIA
+533,Tres Forques - Pérez Galdós,C TRES FORQUES 3 - VALÈNCIA
+534,Tres Forques - Xiva,C TRES FORQUES 10 - VALÈNCIA
+535,Tres Forques - Mestre Bellver,C TRES FORQUES 46 - VALÈNCIA
+538,Arxiduc Carles (par) - Fra Juníper Serra,C ARCHIDUQUE CARLOS 68 - VALÈNCIA
+539,Arxiduc Carles - Puebla Valverde,C ARCHIDUQUE CARLOS 82 - VALÈNCIA
+54,Mercat el Cabanyal - Martí Grajales,C MARINO SIRERA 16 - VALÈNCIA
+540,Camí nou de Picanya - Tres Creus,CAMI PICAñA (CNO. NUEVO) 2 - VALÈNCIA
+543,Arxiduc Carles - Músic Gomis,C ARCHIDUQUE CARLOS 133 - VALÈNCIA
+544,Arxiduc Carles - Fra Juníper Serra,C ARCHIDUQUE CARLOS 111 - VALÈNCIA
+545,Arquitecte Segura de Lago - Prof. Àngel Lacalle,C ARQUITECTO SEGURA DE LAGO 6 - VALÈNCIA
+546,Jesús - Callosa d'en Sarrià,C JESUS 94 - VALÈNCIA
+548,Jesús (Plaça) - Beat Nicolau Factor,C JESUS 12 (PLAÇA) - VALÈNCIA
+549,Beat Nicolau Factor - Lladró i Mallí,C BEATO NICOLAS FACTOR 20 - VALÈNCIA
+550,Humanista Mariner - Beat Nicolau Factor,C HUMANISTA MARINER 4 - VALÈNCIA
+551,Fontanars dels Alforins - Humanista Mariner,C FONTANARES 41 - VALÈNCIA
+552,Pius XI - Manuel Simó,C PIO XI 3 - VALÈNCIA
+554,Conca - Mossén Fenollar,C CUENCA 97 - VALÈNCIA
+555,Conca - Pérez Galdós,C CUENCA 71 - VALÈNCIA
+557,Gaspar Aguilar - Jesús,AV GASPAR AGUILAR 2 - VALÈNCIA
+559,Gaspar Aguilar - Fontanars dels Alforins,AV GASPAR AGUILAR 30 - VALÈNCIA
+563,Gaspar Aguilar -Crematorio,AV GASPAR AGUILAR 159 (DAVANT) - VALÈNCIA
+564,Sant Doménec de Guzman - Cementeri,PL SANTO DOMINGO DE GUZMAN S/N - VALÈNCIA
+571,Gaspar Aguilar - Calvo Acacio,AV GASPAR AGUILAR 73 - VALÈNCIA
+575,Sant Vicent Màrtir - Dolores Alcaide,C SAN VICENTE MARTIR 238 - VALÈNCIA
+576,Sant Vicent Màrtir - Joaquín Navarro,C SAN VICENTE MARTIR 278 - VALÈNCIA
+577,Sant Vicent Màrtir - Primer de Maig,C SAN VICENTE MARTIR 340 - VALÈNCIA
+578,Sant Vicent Màrtir - Enginyer Josep Sirera,C SAN VICENTE MARTIR 412 - VALÈNCIA
+579,Sant Vicent Màrtir (par) - Arquebisbe Olaechea,C SAN VICENTE MARTIR 438 - VALÈNCIA
+58,Manuel Soto Enginyer - Estació,AV INGENIERO MANUEL SOTO 11 - VALÈNCIA
+580,José Soto Micó - Alcalà de Xivert,C JOSE SOTO MICO 22 - VALÈNCIA
+581,Real de Madrid - Carretera d'Alba,AV REAL DE MADRID 26 - VALÈNCIA
+582,Real de Madrid - Algar del Palància,AV REAL DE MADRID 52 - VALÈNCIA
+583,Real de Madrid (par) - Eduardo Dato,AV REAL DE MADRID 100 - VALÈNCIA
+585,Guadalquivir - Forn d'Alcedo,C GUADALQUIVIR 32 - FORN D'ALCEDO
+586,Manuel Iranzo - Real de Madrid,C MANUEL IRANZO 1 - VALÈNCIA
+588,Real de Madrid - Hellín,AV REAL DE MADRID 39 - VALÈNCIA
+589,Real de Madrid - Concepción Arenal,AV REAL DE MADRID 15 - VALÈNCIA
+59,Manuel Soto Enginyer - Comandància Marina,AV INGENIERO MANUEL SOTO 13 - VALÈNCIA
+590,José Soto Micó - Síndic Mojolí,C JOSE SOTO MICO 41 - VALÈNCIA
+591,Sant Vicent Màrtir (impar) - Arquebisbe Olaechea,C SAN VICENTE MARTIR 371 - VALÈNCIA
+592,Sant Vicent Màrtir - Rambleta,C SAN VICENTE MARTIR 315-317 - VALÈNCIA
+593,Sant Vicent Màrtir - Altamira,C SAN VICENTE MARTIR 289 - VALÈNCIA
+594,Sant Vicent Màrtir - Fernández de Mesa,C SAN VICENTE MARTIR 300 (DAVANT) - VALÈNCIA
+595,Sant Vicent Màrtir - Millars,C SAN VICENTE MARTIR 211 - VALÈNCIA
+596,Peris i Valero - Ausiàs March,AV PERIS Y VALERO 36 - VALÈNCIA
+598,Peris i Valero - Sapadors,AV PERIS Y VALERO 84 - VALÈNCIA
+599,Peris i Valero - Bisbe Jaume Pérez,AV PERIS Y VALERO 136 - VALÈNCIA
+60,Manuel Soto Enginyer - Pont de les Drassanes,AV INGENIERO MANUEL SOTO 18 - VALÈNCIA
+600,Peris i Valero - Pere Aleixandre,AV PERIS Y VALERO 156 - VALÈNCIA
+602,Mestre Racional - Regne de València,C MESTRE RACIONAL 5 - VALÈNCIA
+603,Maties Perelló - Lluis de Santangel,C MATIAS PERELLO 41 - VALÈNCIA
+604,Maties Perelló - Mestre Aguilar,C MATIAS PERELLO 7 - VALÈNCIA
+605,dels Centelles - Sueca,C CENTELLES  LOS 32 - VALÈNCIA
+606,Filipines - Manuel Sanchis Guarner,C FILIPINAS BARDISSA CENTRAL - VALÈNCIA
+609,Malilla - Pianista Empar Iturbi,CTRA MALILLA 6 - VALÈNCIA
+61,Major de Natzaret - Vilanova i Piera,C MAYOR DE NAZARET 32 - VALÈNCIA
+610,Malilla - Oltà,CTRA MALILLA 26 - VALÈNCIA
+611,Malilla (par) - Illa Cabrera,CTRA MALILLA 78 - VALÈNCIA
+612,Malilla (par) - Illa Formentera,CTRA MALILLA 100 - VALÈNCIA
+62,Major de Natzaret - Moraira,C MAYOR DE NAZARET S/N (DAVANT MERCAT) - VALÈNCIA
+620,Joaquín Benlloch - Illa Cabrera,C INGENIERO JOAQUÍN BENLLOCH 73 - VALÈNCIA
+621,Joaquín Benlloch - Oltà,C INGENIERO JOAQUÍN BENLLOCH 41 - VALÈNCIA
+622,Joaquín Benlloch - Pianista Empar Iturbi,C INGENIERO JOAQUÍN BENLLOCH 21 - VALÈNCIA
+623,Pianista Empar Iturbi - Ausiàs March,C PIANISTA AMPARO ITURBI 80 - VALÈNCIA
+625,Fonteta Sant Lluís - Lleó XIII,CRA FUENTE DE SAN LUIS 18 - VALÈNCIA
+626,Fonteta Sant Lluís - Dr. Waksman,CRA FUENTE DE SAN LUIS 40 - VALÈNCIA
+627,Fonteta Sant Lluís - Bèrnia,CRA FUENTE DE SAN LUIS 70 - VALÈNCIA
+628,Fonteta Sant Lluís - Algímia d'Alfara,CRA FUENTE DE SAN LUIS 104 - VALÈNCIA
+630,Fonteta Sant Lluís - Ebenista Caselles,CRA FUENTE DE SAN LUIS 114 ACC - VALÈNCIA
+631,Fonteta Sant Lluís - Riu Sec,CRA FUENTE DE SAN LUIS 142 - VALÈNCIA
+632,Gravador Jordán - Alabau i Arce,C GRABADOR JORDAN 46 - VALÈNCIA
+634,Gravador Jordán - Escultor Pastor,C GRABADOR JORDAN 46 (DAVANT) - VALÈNCIA
+635,Gravador Jordán - Riu Sec,C GRABADOR JORDAN 11 - VALÈNCIA
+636,Fonteta Sant Lluís (impar) - Àngel Villena,CRA FUENTE DE SAN LUIS 136 (DAVANT) - VALÈNCIA
+637,Fonteta Sant Lluís - Germans Maristes,CRA FUENTE DE SAN LUIS 139 - VALÈNCIA
+638,Ausiàs March - Algímia d'Alfara,AV AUSIAS MARCH 47 - VALÈNCIA
+639,Bèrnia - Ausiàs March,C BERNIA 13 - VALÈNCIA
+64,Vall de la Ballestera - Campanar,C VALLE DE LA BALLESTERA 1 - VALÈNCIA
+640,Puigcampana - Fonteta Sant Lluís,C PUIGCAMPANA 23 - VALÈNCIA
+643,Sapadors - la Plata,C ZAPADORES 63 - VALÈNCIA
+644,Sapadors - Dos d'Abril,C ZAPADORES 33 - VALÈNCIA
+645,Sapadors - Sant Gregori,C ZAPADORES 5 - VALÈNCIA
+646,General Urrutia (par) - Lluís Oliag,C GENERAL URRUTIA 16 - VALÈNCIA
+647,General Urrutia (par) - la Plata,C GENERAL URRUTIA 44 - VALÈNCIA
+648,General Urrutia (par) - Arabista Ambrosio Huici,C GENERAL URRUTIA 60 - VALÈNCIA
+649,Germans Maristes - José Durán Martínez,AV HERMANOS MARISTAS 20 (DAVANT JARDÍ) - VALÈNCIA
+650,Germans Maristes (impar) - Poliesportiu,AV HERMANOS MARISTAS 16 (DAVANT) - VALÈNCIA
+652,Germans Maristes (par) - Fonteta Sant Lluís,AV HERMANOS MARISTAS 8 - VALÈNCIA
+653,Germans Maristes (par) - Poliesportiu,AV HERMANOS MARISTAS 16 - VALÈNCIA
+654,Germans Maristes - Institut Jordi de Sant Jordi,AV HERMANOS MARISTAS 20 - VALÈNCIA
+657,Font d'en Corts - Levantina Alegre,C FUENTE EN CORTS 54 - VALÈNCIA
+658,Font d'en Corts (par) - Roig de lagarda,C FUENTE EN CORTS 88 - VALÈNCIA
+659,Font d'en Corts (par) - Matador d'en Corts,C FUENTE EN CORTS 161 (DAVANT) - VALÈNCIA
+66,Punta al Mar - Camí Canal,CAMI PUNTA AL MAR  DE LA 75 (DAVANT) - VALÈNCIA
+660,Font d'en Corts (par) - Mercavalencia,C FUENTE EN CORTS 188 - VALÈNCIA
+663,el Tremolar - Crist del Refugi,CAMI TREMOLAR 23 - CASTELLAR-OLIVERAL
+664,Crist del Refugi - del Remolí,C CRISTO DEL REFUGIO 65 - CASTELLAR-OLIVERAL
+665,Crist del Refugi - Ctra. Del Pí,C CRISTO DEL REFUGIO 5 - CASTELLAR-OLIVERAL
+666,Mare de Déu de Lepant (par) - Esc. F. Siurana,PL VIRGEN DE LEPANTO 24 - CASTELLAR-OLIVERAL
+668,Principal - Camí del Ribàs,C  11 - VALÈNCIA
+669,Ribàs (par) - Ador,CAMI RIBAS 14 - CASTELLAR-OLIVERAL
+671,Font d'en Corts (impar) - Mercavalencia,C FUENTE EN CORTS 188 (DAVANT) - VALÈNCIA
+672,Font d'en Corts (impar) - Matador d'en Corts,C FUENTE EN CORTS 151 - VALÈNCIA
+673,Font d'en Corts (impar) - Roig de lagarda,C FUENTE EN CORTS 99 - VALÈNCIA
+674,Font d'en Corts - Casa de Roc,C FUENTE EN CORTS 57 - VALÈNCIA
+677,General Urrutia (impar) - Arabista Ambrosio Huici,C GENERAL URRUTIA 61 - VALÈNCIA
+679,Escultor J. Capuz (impar) - la Plata,C ESCULTOR JOSE CAPUZ 49 - VALÈNCIA
+680,Escultor J. Capuz (impar) - Pere Aleixandre,C ESCULTOR JOSE CAPUZ 31 - VALÈNCIA
+681,Escultor J. Capuz (impar) - Lluís Oliag,C ESCULTOR JOSE CAPUZ 11 - VALÈNCIA
+682,Escultor J. Capuz (par) - Lluís Oliag,C ESCULTOR JOSE CAPUZ 12 - VALÈNCIA
+683,Escultor J. Capuz (par) - Pere Aleixandre,C ESCULTOR JOSE CAPUZ 30 - VALÈNCIA
+684,Escultor J. Capuz (par) - la Plata,C ESCULTOR JOSE CAPUZ 44 - VALÈNCIA
+685,la Plata - General Urrutia,AV PLATA  DE  LA 77 - VALÈNCIA
+686,Marqués del Túria (impar) - Cánovas,GV MARQUÉS DEL TURIA BARDISSA CÁNOVAS (IMPAR) - VALÈNCIA
+687,Marqués del Túria - Jorge Juan,GV MARQUÉS DEL TURIA 59 - VALÈNCIA
+688,Marqués del Túria - Hernán Cortés,GV MARQUÉS DEL TURIA 35 - VALÈNCIA
+689,Marqués del Túria - Russafa,GV MARQUÉS DEL TURIA 7 - VALÈNCIA
+690,Germanies - Castelló,GV GERMANIAS 16 - VALÈNCIA
+691,Espanya - Ermita,C ERMITA 1 (RAMON I CAJAL) - VALÈNCIA
+692,Ramón i Cajal (par) - Jesús,GV RAMON Y CAJAL 28 - VALÈNCIA
+693,Ferran el Catòlic (par) - Àngel Guimerà,GV FERNANDO EL CATOLICO 10 - VALÈNCIA
+694,Ferran el Catòlic - Juan de Mena,GV FERNANDO EL CATOLICO 36 - VALÈNCIA
+695,Ferran el Catòlic (par) - Quart,GV FERNANDO EL CATOLICO 70 - VALÈNCIA
+696,Ferran el Catòlic - Dr. Zamenhof,GV FERNANDO EL CATOLICO 85 - VALÈNCIA
+697,Ferran el Catòlic (impar) - Quart,GV FERNANDO EL CATOLICO 67 - VALÈNCIA
+698,Quart - Ferràn el Catòlic,C QUART 114 - VALÈNCIA
+7,Dr. J.J.Dòmine - Port (Porta Principal),C DOCTOR J.J. DOMINE PORTA PPAL. - VALÈNCIA
+70,Parc Natzaret - Moraira,C PARQUE NAZARET 58 (DAVANT) - VALÈNCIA
+700,Cid (illeta) - Tres Creus,AV CID S/N - VALÈNCIA
+701,Ferran el Catòlic - Gabriel Miró,GV FERNANDO EL CATOLICO 37 - VALÈNCIA
+702,Ferran el Catòlic (impar) - Àngel Guimerà,GV FERNANDO EL CATOLICO 9 - VALÈNCIA
+703,Ferran el Catòlic (central) - Àngel Guimerà,GV FERNANDO EL CATOLICO BARDISSA CENTRAL - VALÈNCIA
+704,Ramón i Cajal - Conca,GV RAMON Y CAJAL 61 - VALÈNCIA
+705,Ramón i Cajal (impar) - Jesús,GV RAMON Y CAJAL 39 - VALÈNCIA
+706,Espanya - Sant Vicent Màrtir,PL ESPAÑA 5 (JUNT.) - VALÈNCIA
+708,Germanies - Sevilla,GV GERMANIAS 13 - VALÈNCIA
+709,Marqués del Túria - Gregori Mayans,GV MARQUÉS DEL TURIA 6 - VALÈNCIA
+710,Marqués del Túria - Mestre Gozalbo,GV MARQUÉS DEL TURIA 40 - VALÈNCIA
+711,Marqués del Túria - Joaquín Costa,GV MARQUÉS DEL TURIA 62 - VALÈNCIA
+712,Marqués del Túria (par) - Cánovas,GV MARQUÉS DEL TURIA BARDISSA CÁNOVAS (PAR) - VALÈNCIA
+716,Cadis - Dénia,C CADIZ 12 - VALÈNCIA
+717,Cadis - Puerto Rico,C CADIZ 44 - VALÈNCIA
+718,Cadis - dels Centelles,C CADIZ 92 - VALÈNCIA
+720,Mercat de Russafa,C MAESTRO AGUILAR 3 - VALÈNCIA
+721,Russafa - Sant Valero,PL DOCTOR LANDETE 1 - VALÈNCIA
+722,Regne de València - Russafa,AV REGNE DE VALENCIA 4 - VALÈNCIA
+723,Regne de València - Lluís Santàngel,AV REGNE DE VALENCIA 42 - VALÈNCIA
+724,Regne de València - Peris i Valero,AV REGNE DE VALENCIA 80 - VALÈNCIA
+725,Regne de València - Mestre Gozalbo,AV REGNE DE VALENCIA 43 - VALÈNCIA
+726,Regne de València - Gregori Mayans,AV REGNE DE VALENCIA 11 - VALÈNCIA
+728,Pintor Salvador Abril - Mestre J. Serrano,C PINTOR SALVADOR ABRIL 14 - VALÈNCIA
+731,Joaquín Costa - Regne de València,C JOAQUÍN COSTA 56 - VALÈNCIA
+732,Ciscar - Mestre Racional,C CISCAR 61 - VALÈNCIA
+733,Ciscar - Borriana,C CISCAR 31 - VALÈNCIA
+734,Ciscar - Comte d'Altea,C CISCAR 11 - VALÈNCIA
+735,Peris i Valero - Cuba,AV PERIS Y VALERO 61 - VALÈNCIA
+737,Sant Vicent Màrtir - Roís de Corella,C SAN VICENTE MARTIR 188 (DAVANT) - VALÈNCIA
+738,Sant Vicent Màrtir - Dr. Gil i Morte,C SAN VICENTE MARTIR 153 - VALÈNCIA
+739,Jesús - Sant Francesc de Borja,C JESUS 44 - VALÈNCIA
+741,Jesús - Pintor Segrelles,C JESUS 75 (DAVANT) - VALÈNCIA
+742,Albacete - Mestre Sosa,C ALBACETE 41 - VALÈNCIA
+744,Conca - Bisbe Amigó,C CUENCA 41 - VALÈNCIA
+745,Conca - Alzira,C CUENCA 15 - VALÈNCIA
+746,Àngel Guimerà - Bon Ordre,C ANGEL GUIMERA 42 (ACCÉS) - VALÈNCIA
+748,Mestre Guerrero - Joan Llorens,C MAESTRO GUERRERO 1 (ACC) - VALÈNCIA
+749,Quart - Terol,C QUART 134 - VALÈNCIA
+750,Sant Josep de la Muntanya - Pérez Galdós,AV SAN JOSE DE LA MONTAÑA 22 - VALÈNCIA
+758,Aiora - Mariano Ribera,C AYORA 31 - VALÈNCIA
+759,Aiora - Xiva,C AYORA 9 - VALÈNCIA
+760,Sant Josep de Calassanç - Alberic,C SAN JOSE DE CALASANZ 11 - VALÈNCIA
+761,Sant Francesc de Borja - Jesús,C SAN FRANCISCO DE BORJA 5 - VALÈNCIA
+764,Amèrica - Pont d'Aragó,PL AMERICA 1 (DAVANT RIU) - VALÈNCIA
+771,Torres dels Serrans - Comte de Trénor,TOR TORRES DE SERRANS ILLETA - VALÈNCIA
+773,Poeta Llorente - Temple,PL POETA LLORENTE JARDÍ - VALÈNCIA
+777,Amèrica - Marqués del Túria,PL AMERICA 2 - VALÈNCIA
+782,Colón - Cerdà de Tallada,C COLON 84 (DAVANT JARDÍ) - VALÈNCIA
+783,Els Pinazos - Colón,PL LOS PINAZO S/N - VALÈNCIA
+784,Colón - Roger de Lloria,C COLON 19 - VALÈNCIA
+785,Colón - Passeig de Russafa,C COLON 1 - VALÈNCIA
+786,Xàtiva - Marqués de Sotelo,C XATIVA 17 (DAVANT PLAÇA BOUS) - VALÈNCIA
+788,Sant Agustí,PL SAN AGUSTIN ILLETA - VALÈNCIA
+792,Encarnació - Guillem de Castro,PL ENCARNACION 2 - VALÈNCIA
+793,Guillem de Castro - Torres de Quart,C GUILLEM DE CASTRO 78 - VALÈNCIA
+795,Guillem de Castro - Corona,C GUILLEM DE CASTRO 106 - VALÈNCIA
+796,Guillem de Castro - Na Jordana,C GUILLEM DE CASTRO IVAM - VALÈNCIA
+800,Reina,PL REINA (PL.) S/N - VALÈNCIA
+803,Quart - Guillem de Castro,C QUART 66 - VALÈNCIA
+807,Baró de Càrcer - Hospital,AV BARON DE CARCER 30 - VALÈNCIA
+808,Quevedo - Baró de Càrcer,C QUEVEDO 2 - VALÈNCIA
+813,Baró de Càrcer - Sant Agustí,AV BARON DE CARCER 52 - VALÈNCIA
+814,Jesús - Pare Jofré,C JESUS 14 - VALÈNCIA
+815,Espanya - Julio Antonio,PL ESPAÑA 3 - VALÈNCIA
+816,Sant Vicent Màrtir - Espanya,C SAN VICENTE MARTIR 114 (ILLETA) - VALÈNCIA
+818,Sant Vicent Màrtir - Periodista Azzati,C SAN VICENTE MARTIR 57 - VALÈNCIA
+819,Sant Vicent Màrtir - Cotanda,C SAN VICENTE MARTIR 41 - VALÈNCIA
+820,Marqués de Dosaigües - Pau,C MARQUÉS DE DOS AGUAS 4 - VALÈNCIA
+822,Pascual i Genís - Roger de Lloria,C PASCUAL Y GENIS 20 - VALÈNCIA
+823,Fèlix Pizcueta - Ciril Amorós,C FELIX  PIZCUETA 22 - VALÈNCIA
+824,Marqués de Sotelo - Sant Pau,AV MARQUÉS DE SOTELO 8 - VALÈNCIA
+825,Sant Pau - Sant Agustí,C SAN PABLO REIXA INSTITUT - VALÈNCIA
+83,Eugènia Viñes - Camps,C EUGENIA VIÑES 231 - VALÈNCIA
+830,Russafa - Ciril Amorós,C RUZAFA 21 - VALÈNCIA
+833,Vall de la Ballestera - Pius XII,C VALLE DE LA BALLESTERA 2ACC - VALÈNCIA
+834,Hernàn Cortès - Ciril Amorós,C HERNAN CORTES 26 - VALÈNCIA
+835,Marqués de Sotelo - Passatge Rex,AV MARQUÉS DE SOTELO 1-3 - VALÈNCIA
+836,Pl. de l'Ajuntament - Ribera,PL AYUNTAMIENTO 26 - VALÈNCIA
+837,Pl. de l'Ajuntament - Barques,PL AYUNTAMIENTO 21-22 - VALÈNCIA
+838,Pl. de l'Ajuntament - Font,PL AYUNTAMIENTO FONT - VALÈNCIA
+84,Eugènia Viñes - Francesc Miralles,C EUGENIA VIÑES 183 - VALÈNCIA
+840,Pl. de l'Ajuntament - Cotanda,PL AYUNTAMIENTO 5 - VALÈNCIA
+843,Pl. de l'Ajuntament - Ateneu,PL AYUNTAMIENTO 16 (ILLETA) - VALÈNCIA
+844,Baró de Càrcer - Garrigues,AV BARON DE CARCER 33 (ILLETA) - VALÈNCIA
+845,Periodista Azzati - Arquebisbe Mayoral,C PERIODISTA AZZATI 11 - VALÈNCIA
+846,Roger de Lloria - Colón,C ROGER DE LAURIA 30 - VALÈNCIA
+847,Correus - Pascual i Genís,C CORREOS S/N - VALÈNCIA
+848,Pintor Sorolla - A. Magnànim,C PINTOR SOROLLA 26 - VALÈNCIA
+849,Font d'en Corts (par) - Mossén Palanca,C FUENTE EN CORTS 112 - VALÈNCIA
+850,Font d'en Corts - Camí dels Rocs,C FUENTE EN CORTS 119 - VALÈNCIA
+855,Orxata - Mestre Serrano,AV ORXATA   DE  L' 41 - ALBORAIA
+866,Catalunya - Santa Cruz de la Zarza,AV CATALUÑA 16 - VALÈNCIA
+867,Clariano - Palància,C CLARIANO 25 - VALÈNCIA
+868,Clariano - Albalat dels Tarongers,C CLARIANO 34 - VALÈNCIA
+869,Amadeu de Savoia - Suècia,C AMADEO DE SABOYA 15 - VALÈNCIA
+870,Misser Mascó - Dr. Rodríguez Fornós,C POETA MICER MASCO 35 - VALÈNCIA
+871,Misser Mascó - Dr. Moliner,C POETA MICER MASCO 11 - VALÈNCIA
+872,Misser Mascó - Montfort,C POETA MICER MASCO 1 - VALÈNCIA
+874,Finlàndia - General Gil Dolz,C FINLANDIA 2 ACC - VALÈNCIA
+880,Pintor Salvador Abril - Maties Perelló,C PINTOR SALVADOR ABRIL 34 - VALÈNCIA
+882,Fonteta Sant Lluís (par) - Àngel Villena,CRA FUENTE DE SAN LUIS 134 - VALÈNCIA
+886,Peris i Valero - Pintor Salvador Abril,AV PERIS Y VALERO 131 - VALÈNCIA
+887,General Urrutia (impar) - Lluís Oliag,C GENERAL URRUTIA 13 - VALÈNCIA
+890,General Urrutia (impar) - la Plata,C GENERAL URRUTIA 49 - VALÈNCIA
+892,la Plata - Poeta Miguel Hernández,AV PLATA  DE  LA S/N - VALÈNCIA
+9,Dr. Lluch - Vicent Gallart,C DOCTOR LLUCH 38 - VALÈNCIA
+904,Glòria (par) - Oliveral,C GLORIA 76 - CASTELLAR-OLIVERAL
+906,Karl Marx - Guadalquivir,C CARLOS MARX S/N - FORN D'ALCEDO
+907,Guadalquivir - Karl Marx,C GUADALQUIVIR 58 - FORN D'ALCEDO
+910,Glòria (impar) - Oliveral,C GLORIA 57 - CASTELLAR-OLIVERAL
+911,Camí de les Vaques (impar),CAMI VAQUES  DE LES 37 - CASTELLAR-OLIVERAL
+912,Camí de les Vaques (par),CAMI VAQUES  DE LES 68 - CASTELLAR-OLIVERAL
+921,Carrera del Riu - Entrada Sanques,CRA RIU  DEL 172 - VALÈNCIA
+922,Carrera del Riu - Camí dels Anouers,CRA RIU  DEL 228 - VALÈNCIA
+923,Carrera del Riu (par) - Canal,CRA RIU  DEL 264 - VALÈNCIA
+924,Carrera del Riu - Trav. Pinedo a la Mar,CRA RIU  DEL 314 - VALÈNCIA
+928,Carrera del Riu - Mossén Cuenca,CRA RIU  DEL 299 - VALÈNCIA
+929,Carrera del Riu (impar) - Canal,CRA RIU  DEL 267 - VALÈNCIA
+930,el Tremolar - Camí Racó,CAMI TREMOLAR 163 - CASTELLAR-OLIVERAL
+931,el Tremolar - Guadiana,CAMI TREMOLAR 151 - CASTELLAR-OLIVERAL
+932,el Tremolar - Barraca de Troia,CAMI TREMOLAR 110 (DAVANT) - CASTELLAR-OLIVERAL
+933,el Tremolar - Casa Rabot,CAMI TREMOLAR 63 - CASTELLAR-OLIVERAL
+934,el Tremolar - Camí del Cavalló,CAMI TREMOLAR 23 (DAVANT) - CASTELLAR-OLIVERAL
+935,el Tremolar - Cases Grill,CAMI TREMOLAR 54 - CASTELLAR-OLIVERAL
+936,el Tremolar - Séquia de l'or,CAMI TREMOLAR 100 - CASTELLAR-OLIVERAL
+937,el Tremolar - Font d'en Corts,CAMI TREMOLAR 146 - CASTELLAR-OLIVERAL
+938,el Tremolar - Camí del Bracet,CAMI TREMOLAR 163 (DAVANT) - CASTELLAR-OLIVERAL
+939,Carrera del Riu - Entrada casa Rosquilla,CRA RIU  DEL 219 - VALÈNCIA
+940,Carrera del Riu - Casa Andrés,CRA RIU  DEL 172 (DAVANT) - VALÈNCIA
+948,Corts Valencianes - Cervantes,AV CORTS VALENCIANES 62 - TAVERNES BLANQUES
+949,Cases de Bàrcena I,CRA CASAS DE BARCENA 1 (DAVANT) - CASES DE BÀRCENA
+950,Cases de Bàrcena II,CRA CASAS DE BARCENA 66 - CASES DE BÀRCENA
+951,Cases de Bàrcena III,CRA CASAS DE BARCENA 90 - CASES DE BÀRCENA
+953,Cases de Bàrcena IV,CRA CASAS DE BARCENA 93 - CASES DE BÀRCENA
+954,Cases de Bàrcena V,CRA CASAS DE BARCENA 61 - CASES DE BÀRCENA
+955,Cases de Bàrcena VI,CRA CASAS DE BARCENA 1 - CASES DE BÀRCENA
+956,Corts Valencianes - Marià Benlliure,AV CORTS VALENCIANES 29 - TAVERNES BLANQUES
+958,Dr. Peset Aleixandre - Mondúver,AV DOCTOR PESET ALEIXANDRE 124 - VALÈNCIA
+961,Jaime Beltrán - Misser Rabassa,C JAIME BELTRAN 13 - VALÈNCIA
+965,Germans Villalonga - Enric Navarro,C HERMANOS VILLALONGA 29 - VALÈNCIA
+966,Germans Villalonga - Dr. Vicent Zaragozà,C HERMANOS VILLALONGA 5 - VALÈNCIA
+967,Ramón Asensio - Guàrdia Civil,C RAMON ASENSIO ILLETA - VALÈNCIA
+972,Uruguai - Misser Rabassa,C URUGUAY 18 - VALÈNCIA
+974,Carters - Llanera de Ranes,C CARTEROS 38 - VALÈNCIA
+975,Carters - Calvo Acacio,C CARTEROS 62 - VALÈNCIA
+976,Carters (impar) - Primer de Maig,C CARTEROS 77 - VALÈNCIA
+978,Carters (par) - Primer de Maig,C CARTEROS 84 - VALÈNCIA
+979,Carters - Mossén Febrer,C CARTEROS 60 (DAVANT) - VALÈNCIA
+983,Ramón i Cajal - Bailén,GV RAMON Y CAJAL 1 - VALÈNCIA
+984,Periodista Azzati - Convent de Sant Francesc,C PERIODISTA AZZATI 3 - VALÈNCIA
+985,Jaume Esteve Cubells - Dr. Vicent Zaragozà,C JAIME ESTEVE CUBELLS 6 - VALÈNCIA
+987,Mistral - Murta,C MISTRAL 38 - VALÈNCIA
