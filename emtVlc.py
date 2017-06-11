@@ -86,6 +86,7 @@ else:
         print("Parada: " + numParada)
         if len(sys.argv) > 2:
             numLinea = numLinea + sys.argv[2]
+            numLinea = numLinea.lower()
             with open(path+'numeroLineas.txt') as file:
                 lineasEMT = file.read().splitlines()
                 if numLinea in lineasEMT:
