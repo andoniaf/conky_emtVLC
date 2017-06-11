@@ -54,24 +54,24 @@ ${execpi 30 python3 /home/aalonsof/PycharmProjects/emtVLC_conky/emtVlc.py 1252 N
 ![](./.img/conky_emtVLC_07.png)
 
 ### Errores frecuentes
-- Mensaje indicando que esta temporalmente fuera de servicio:
+- Mensaje indicando que esta *temporalmente fuera de servicio*:
    - Este error suele aparecer cuando la web de la EMT no devuelve información, cuando actualiza la información desaparece.
 
    ![](./.img/conky_emtVLC_06.png)
 
-- Mensaje indicando que "La linea X no pasa por esta parada.":
+- Mensaje indicando que "*La linea X no pasa por esta parada.*":
    - Como indica el error, comprueba que la linea pasa por esa parada.
 
    ![](./.img/conky_emtVLC_04.png)
 
-- Mensaje indicando que "No has introducido un número de parada valido.":
+- Mensaje indicando que "*No has introducido un número de parada valido.*":
   - Comprueba que la parada existe y no hay ningún carácter extraño.
 
 
-- Mensaje indicando que "Todavia no hay estimaciones para la linea X en esta parada.":
+- Mensaje indicando que "*Todavía no hay estimaciones para la linea X en esta parada.*":
   - Este error aparece cuando la linea se corresponde con la parada pero aun no hay datos. Suele ocurrir cuando se consultan linea nocturnas durante la mañana.
 
-
+      ![](./.img/conky_emtVLC_08.png)
 
 
 ### Información adicional
