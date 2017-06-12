@@ -7,7 +7,7 @@ Módulo que permite añadir la información de los próximos buses a tu configur
 ### Instalación
 - Descargar o clonar el repositorio: [ZIP](https://github.com/andoniaf/conky_emtVLC/archive/master.zip)
 ```
-git clone https:://github.com/andoniaf/conky_emtVLC.git
+git clone https://github.com/andoniaf/conky_emtVLC.git
 ```
 
 - Añade una linea como la siguiente a tu configuración de Conky:
