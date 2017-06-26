@@ -9,9 +9,11 @@ Módulo que permite añadir la información de los próximos buses a tu configur
 ```
 git clone https://github.com/andoniaf/conky_emtVLC.git
 ```
+
 - Instalar dependencias:
 ```
-pip3 install -r requirements.txt```
+pip3 install -r requirements.txt
+```
 
 ### Formas de uso
 ##### - Consulta de paradas:
