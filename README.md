@@ -9,7 +9,9 @@ Módulo que permite añadir la información de los próximos buses a tu configur
 ```
 git clone https://github.com/andoniaf/conky_emtVLC.git
 ```
-- <Añadir apartado requirements.txt>
+- Instalar dependencias:
+```
+pip3 install -r requirements.txt```
 
 ### Formas de uso
 ##### - Consulta de paradas:
@@ -66,7 +68,7 @@ ${execpi 30 python3 /home/aalonsof/PycharmProjects/emtVLC_conky/emtVlc.py 1252 N
 ```
 ${execpi 30 python3 emtVlc.py -s 169387066291 }
 ```
-![PDTE FOTO](./.img/conky_emtVLC_0X.png)
+![](./.img/conky_emtVLC_09.png)
 
 ### Errores frecuentes
 - Mensaje indicando que esta *temporalmente fuera de servicio*:
