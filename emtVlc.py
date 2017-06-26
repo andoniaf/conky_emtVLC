@@ -6,9 +6,10 @@ import sys
 import urllib.request  # for parsing URLs
 import urllib.parse  # for opening and reading URLs
 from bs4 import BeautifulSoup as bs
+from modules.emtSaldo import prime_saldo
 
 # VARS
-path = "/route/to/path/emtVLC_conky/"
+path = "./info/"
 numParada = ""
 numLinea = ""
 
@@ -77,24 +78,32 @@ def prime_buses(numParada):
 
 
 if len(sys.argv) == 1:
-    message = "No has introducido la parada!!"
+    mensaje = "Uso:\n   python3 /route/to/emtVlc.py <Número Parada> <Linea (Opcional)>\n"
+    mensaje += "   python3 /route/to/emtVlc.py -s <Número Tarjeta>"
 else:
-    numParada = numParada + sys.argv[1]
-    if not numParada.isdigit():
-        message = "No has introducido un número de parada válido."
+    if sys.argv[1] == '-s':
+        if len(sys.argv) < 3:
+            mensaje = "Opción para consultar saldo:\n"
+            mensaje += "   python3 /route/to/emtVlc.py -s <Número Tarjeta>"
+        else:
+            mensaje = prime_saldo(sys.argv[2])
     else:
-        print("Parada: " + numParada)
-        if len(sys.argv) > 2:
-            numLinea = numLinea + sys.argv[2]
-            numLinea = numLinea.lower()
-            with open(path+'numeroLineas.txt') as file:
-                lineasEMT = file.read().splitlines()
-                if numLinea in lineasEMT:
-                    print("Linea: " + numLinea)
-                else:
-                    print("La linea \"" + numLinea + "\" no existe.")
-                    numLinea = ''
+        numParada = numParada + sys.argv[1]
+        if not numParada.isdigit():
+            mensaje = "No has introducido un número de parada válido."
+        else:
+            print("Parada: " + numParada)
+            if len(sys.argv) > 2:
+                numLinea = numLinea + sys.argv[2]
+                numLinea = numLinea.lower()
+                with open(path+'numeroLineas.txt') as file:
+                    lineasEMT = file.read().splitlines()
+                    if numLinea in lineasEMT:
+                        print("Linea: " + numLinea)
+                    else:
+                        print("La linea \"" + numLinea + "\" no existe.")
+                        numLinea = ''
 
-        message = prime_buses(numParada)
+            mensaje = prime_buses(numParada)
 
-print(message)
+print(mensaje)

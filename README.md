@@ -7,30 +7,39 @@ Módulo que permite añadir la información de los próximos buses a tu configur
 ### Instalación
 - Descargar o clonar el repositorio: [ZIP](https://github.com/andoniaf/conky_emtVLC/archive/master.zip)
 ```
-git clone git@github.com:andoniaf/conky_emtVLC.git
+git clone https://github.com/andoniaf/conky_emtVLC.git
 ```
+- <Añadir apartado requirements.txt>
 
+### Formas de uso
+##### - Consulta de paradas:
+```
+python3 /route/to/path/emtVlc.py(a) 800(b) 9(c)}
+```
+a) Ruta hasta el módulo.
+
+b) Número de la **parada**.
+
+c) [Opcional] Nombre de la **linea** (*en caso de que solo quieras consultar una sola linea de la parada*).
+
+
+##### - Consulta saldo de la tarjeta:
+```
+python3 /route/to/path/emtVlc.py(a) -s(b) 9(c)}
+```
+a) Ruta hasta el módulo.
+
+b) Parametro que indica que se esta consultando el **saldo**.
+
+c) Número de la **tarjeta**.
+
+
+### Configuración en Conky
 - Añade una linea como la siguiente a tu configuración de Conky:
 ```
-${execpi 30 python3 /route/to/path/emtVlc.py 800 9}
-```
-
-### Configuración
-```
-${execpi 30(a) python3 /route/to/path/emtVlc.py(b) 800(c) 9(d)}
+${execpi 30(a) python3 /route/to/path/emtVlc.py 800 9}
 ```
 a) Este valor indica cada cuantos segundos se actualiza la información.
-
-b) Ruta hasta el módulo. (*Tambien tendrás que configurar esa linea en el fichero **emtVlc.py***)
-
-```
-# VARS
-path = "/route/to/path/emtVLC_conky/"
-```
-
-c) Número de la parada
-
-d) [Opcional] Nombre de la linea (*en caso de que solo quieras consultar una sola linea de la parada*).
 
 ### Ejemplos de configuración
 - Muestra **todas** las lineas de la parada **800**, actualiza cada **30** segundos:
@@ -52,6 +61,12 @@ $hr
 ${execpi 30 python3 /home/aalonsof/PycharmProjects/emtVLC_conky/emtVlc.py 1252 N6 }
 ```
 ![](./.img/conky_emtVLC_07.png)
+
+- Muestra la información de la **tarjeta** '169387066291':
+```
+${execpi 30 python3 emtVlc.py -s 169387066291 }
+```
+![PDTE FOTO](./.img/conky_emtVLC_0X.png)
 
 ### Errores frecuentes
 - Mensaje indicando que esta *temporalmente fuera de servicio*:
