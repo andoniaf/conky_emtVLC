@@ -48,11 +48,11 @@ def prime_saldo(numTarj):
         raw_ultUso = data.select('br')[4]
         viajes = raw_viajes[0].getText()
         ultUso = raw_ultUso.getText().splitlines()[0]
-        nota = 'En el caso de haberla utilizado o recargado con posterioridad a la fecha y hora ' \
-               'indicada, el número de viajes será diferente al mostrado. '
+        nota = 'En el caso de haberla utilizado o recargado \n'\
+               'con posterioridad a la fecha y hora indicada, \n' \
+               'el número de viajes será diferente al mostrado. '
         mensaje = 'Tarjeta: ' + numTarj + '\n'
         mensaje += viajes + '\n'
         mensaje += ultUso + '\n'
         mensaje += nota
     return mensaje
-
