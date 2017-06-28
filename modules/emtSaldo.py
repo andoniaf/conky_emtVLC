@@ -42,7 +42,7 @@ def prime_saldo(numTarj):
     # Comprobación pdte de tener nombre
     if not raw_viajes:
         raw_error = data.select('span')
-        error = raw_error[0].getText()
+        error = raw_error[1].getText()
         mensaje = 'ERROR: ' + error
     else:
         raw_ultUso = data.select('br')[4]
