@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 ### Formas de uso
 ##### - Consulta de paradas:
 ```
-python3 /route/to/path/emtVlc.py(a) 800(b) 9(c)}
+python3 /route/to/path/emtVlc.py(a) 800(b) 9(c)
 ```
 a) Ruta hasta el módulo.
 
@@ -29,7 +29,7 @@ c) [Opcional] Nombre de la **linea** (*en caso de que solo quieras consultar una
 
 ##### - Consulta saldo de la tarjeta:
 ```
-python3 /route/to/path/emtVlc.py(a) -s(b) 9(c)}
+python3 /route/to/path/emtVlc.py(a) -s(b) 9(c)
 ```
 a) Ruta hasta el módulo.
 
