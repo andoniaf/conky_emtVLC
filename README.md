@@ -1,5 +1,7 @@
 # Conky EMT Valencia
 
+**(Deprecated, ver https://github.com/andoniaf/pyemtvlc)**
+
 Módulo que permite añadir la información de los próximos buses a tu configuración de Conky.
 
 ![](./.img/conky_emtVLC_01.png)
